@@ -11,71 +11,82 @@ enhanced-mode-by-rule = true
 
 [Proxy]
 DIRECT = direct
-🔒 | trojan | @URL | 580 = trojan, 92.243.75.49, 2087, password = wb6368, udp-delay = true, skip-cert-verify = false, sni = hsdgbuys.pages.dev, ws = false
-🔒 | trojan | @URL | 5714 = trojan, 172.67.156.25, 443, password = f282b878-8711-45a1-8c69-5564172123c1, udp-delay = true, skip-cert-verify = false, sni = aio.zipzap.biz.id, ws = false
-🔒 | ss | @URL | 5670 = ss, 142.4.216.225, 80, encrypt-method = chacha20-ietf-poly1305, password = JIhN6rBKkaEboLNXVSv5rq
-🔒 | ss | @URL | 8 = ss, 64.74.163.130, 990, encrypt-method = chacha20-ietf-poly1305, password = f8f7aCzcPKbsF8p3
-8ZQi@koma-yt.pages.dev:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/tro8sFW1S91B6sZrM1?ed=2560&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 584 = trojan, 8r<[9'l6hAO, , password = , udp-delay = true, skip-cert-verify = false, ws = false
-🔒 | ss | @URL | 90 = ss, ca225.vpnbook.com, 80, encrypt-method = chacha20-ietf-poly1305, password = JIhN6rBKkaEboLNXVSv5rq
-🔒 | trojan | @URL | 586 = trojan, 172.66.46.254, 443, password = auto, udp-delay = true, skip-cert-verify = false, sni = dcf741e8.epeius-2gy.pages.dev, ws = false
-8ZQi@172.66.44.230:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/tro8sFW1S91B6sZrM1?ed=2560&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 572 = trojan, 8r<[9'l6hAO, , password = , udp-delay = true, skip-cert-verify = false, ws = false
-🔒 | trojan | @URL | 574 = trojan, dcf741e8.epeius-2gy.pages.dev, 443, password = auto, udp-delay = true, skip-cert-verify = false, sni = dcf741e8.epeius-2gy.pages.dev, ws = false
-🔒 | trojan | @URL | 569 = trojan, www.visa.com.sg, 8443, password = trojan, udp-delay = true, skip-cert-verify = false, sni = pangpi.pages.dev, ws = false
-🔒 | ss | @URL | 238 = ss, 104.167.197.25, 57456, encrypt-method = chacha20-ietf-poly1305, password = 360e21d21977dc11
-🔒 | ss | @URL | 10 = ss, 104.192.226.106, 990, encrypt-method = chacha20-ietf-poly1305, password = f8f7aCzcPKbsF8p3
-🔒 | ss | @free4allVPN | 75946 = ss, 79.127.233.170, 990, encrypt-method = chacha20-ietf-poly1305, password = f8f7aCzcPKbsF8p3
-🔒 | ss | @URL | 131 = ss, 23.157.40.101, 8008, encrypt-method = aes-256-gcm, password = XKFKl2rULjIp74
-🔒 | ss | @URL | 156 = ss, 23.157.40.101, 7307, encrypt-method = aes-256-gcm, password = FoOiGlkAA9yPEGP
-🔒 | ss | @URL | 104 = ss, 45.158.171.60, 8080, encrypt-method = chacha20-ietf-poly1305, password = oZIoA69Q8yhcQV8ka3Pa3A
-🔒 | ss | @URL | 5559 = ss, 193.29.139.240, 8080, encrypt-method = chacha20-ietf-poly1305, password = oZIoA69Q8yhcQV8ka3Pa3A
-🔒 | ss | @URL | 67 = ss, 45.158.171.110, 8080, encrypt-method = chacha20-ietf-poly1305, password = oZIoA69Q8yhcQV8ka3Pa3A
-🔒 | ss | @URL | 168 = ss, 45.158.171.70, 8080, encrypt-method = chacha20-ietf-poly1305, password = oZIoA69Q8yhcQV8ka3Pa3A
-🔒 | trojan | @URL | 516 = trojan, creativecommons.org, 2053, password = YwuvGJk36B, udp-delay = true, skip-cert-verify = false, sni = kotlet.arshiacomplus.dpdns.org, ws = false
-🔒 | trojan | @URL | 5678 = trojan, creativecommons.org, 2053, password = YwuvGJk36B, udp-delay = true, skip-cert-verify = false, sni = kotlet.arshiacomplus.dpdns.org, ws = false
-🔒 | ss | @URL | 152 = ss, 45.158.171.66, 8080, encrypt-method = chacha20-ietf-poly1305, password = oZIoA69Q8yhcQV8ka3Pa3A
-🔒 | ss | @URL | 5549 = ss, 193.29.139.235, 8080, encrypt-method = chacha20-ietf-poly1305, password = oZIoA69Q8yhcQV8ka3Pa3A
-🔒 | ss | @URL | 5893 = ss, azjnac1.uksouth.cloudapp.azure.com, 443, encrypt-method = chacha20-ietf-poly1305, password = ksg929BWf1K220dG
-🔒 | ss | @URL | 26 = ss, 193.29.139.217, 8080, encrypt-method = chacha20-ietf-poly1305, password = QCXDxuDlTTMD7jtgHUjIoj
-🔒 | ss | @URL | 21 = ss, 151.242.251.153, 8080, encrypt-method = chacha20-ietf-poly1305, password = QCXDxuDlTTMD7jtgHUjIoj
-🔒 | ss | @URL | 284 = ss, 23.157.40.101, 8009, encrypt-method = aes-256-gcm, password = XKFKl2rULjIp74
-🔒 | ss | @URL | 172 = ss, 193.29.139.202, 8080, encrypt-method = chacha20-ietf-poly1305, password = oZIoA69Q8yhcQV8ka3Pa3A
-🔒 | ss | @URL | 5986 = ss, 45.87.175.69, 8080, encrypt-method = chacha20-ietf-poly1305, password = oZIoA69Q8yhcQV8ka3Pa3A
-🔒 | ss | @URL | 122 = ss, 51.195.119.47, 1080, encrypt-method = chacha20-ietf-poly1305, password = qXvO7zYU7KeaB0Md7DQLow
-🔒 | ss | @URL | 94 = ss, 185.177.229.245, 1866, encrypt-method = chacha20-ietf-poly1305, password = oXGp1+ihlfKg826H
-🔒 | ss | @URL | 35 = ss, 195.181.160.6, 990, encrypt-method = chacha20-ietf-poly1305, password = f8f7aCzcPKbsF8p3
-🔒 | ss | @URL | 88 = ss, 45.154.206.192, 990, encrypt-method = chacha20-ietf-poly1305, password = f8f7aCzcPKbsF8p3
-🔒 | ss | @URL | 165 = ss, 45.87.175.58, 8080, encrypt-method = chacha20-ietf-poly1305, password = oZIoA69Q8yhcQV8ka3Pa3A
-🔒 | ss | @URL | 95 = ss, 204.136.10.115, 1866, encrypt-method = chacha20-ietf-poly1305, password = oXGp1+ihlfKg826H
-🔒 | ss | @URL | 97 = ss, 92.118.205.228, 990, encrypt-method = chacha20-ietf-poly1305, password = f8f7aCzcPKbsF8p3
-🔒 | ss | @URL | 22 = ss, 45.87.175.157, 8080, encrypt-method = chacha20-ietf-poly1305, password = 4a2rfixophdjffa8KVA4Aa
-🔒 | ss | @URL | 5500 = ss, azjnac1.uksouth.cloudapp.azure.com, 443, encrypt-method = chacha20-ietf-poly1305, password = b2EJuconC460KllN
-🔒 | ss | @URL | 5503 = ss, 45.87.175.65, 8080, encrypt-method = chacha20-ietf-poly1305, password = oZIoA69Q8yhcQV8ka3Pa3A
-🔒 | ss | @URL | 5515 = ss, series-a1.samanehha.co, 443, encrypt-method = chacha20-ietf-poly1305, password = W74XFALLLuw6m5IA
-🔒 | ss | @URL | 5632 = ss, 45.87.175.199, 8080, encrypt-method = chacha20-ietf-poly1305, password = 1RWwXhwfAB5gAEozU4G2Pg
-🔒 | ss | @URL | 164 = ss, 45.87.175.92, 8080, encrypt-method = chacha20-ietf-poly1305, password = oZIoA69Q8yhcQV8ka3Pa3A
-🔒 | ss | @URL | 40 = ss, 45.87.175.192, 8080, encrypt-method = chacha20-ietf-poly1305, password = 4a2rfixophdjffa8KVA4Aa
-🔒 | ss | @URL | 99 = ss, 181.119.30.20, 990, encrypt-method = chacha20-ietf-poly1305, password = f8f7aCzcPKbsF8p3
-🔒 | ss | @URL | 25 = ss, 45.87.175.178, 8080, encrypt-method = chacha20-ietf-poly1305, password = 1RWwXhwfAB5gAEozU4G2Pg
-🔒 | ss | @URL | 134 = ss, 45.87.175.22, 8080, encrypt-method = chacha20-ietf-poly1305, password = oZIoA69Q8yhcQV8ka3Pa3A
-🔒 | ss | @URL | 169 = ss, 38.54.45.129, 990, encrypt-method = chacha20-ietf-poly1305, password = f8f7aCzcPKbsF8p3
-🔒 | ss | @URL | 331 = ss, 185.126.239.250, 990, encrypt-method = chacha20-ietf-poly1305, password = f8f7aCzcPKbsF8p3
-🔒 | ss | @URL | 62 = ss, 38.165.233.18, 990, encrypt-method = chacha20-ietf-poly1305, password = f8f7aCzcPKbsF8p3
-🔒 | trojan | @URL | 5771 = trojan, creativecommons.org, 2053, password = YwuvGJk36B, udp-delay = true, skip-cert-verify = false, sni = kotlet.arshiacomplus.dpdns.org, ws = false
-🔒 | ss | @URL | 153 = ss, 45.87.175.35, 8080, encrypt-method = chacha20-ietf-poly1305, password = oZIoA69Q8yhcQV8ka3Pa3A
-🔒 | ss | @URL | 129 = ss, 45.87.175.188, 8080, encrypt-method = chacha20-ietf-poly1305, password = 4a2rfixophdjffa8KVA4Aa
-🔒 | ss | @URL | 161 = ss, 203.23.128.33, 990, encrypt-method = chacha20-ietf-poly1305, password = f8f7aCzcPKbsF8p3
-🔒 | ss | @URL | 5876 = ss, 45.87.175.166, 8080, encrypt-method = chacha20-ietf-poly1305, password = QCXDxuDlTTMD7jtgHUjIoj
-🔒 | ss | @URL | 5619 = ss, 212.34.140.184, 443, encrypt-method = chacha20-ietf-poly1305, password = 0NeN5ta7FLa5B9DLytU0um
-🔒 | ss | @URL | 18 = ss, 45.87.175.154, 8080, encrypt-method = chacha20-ietf-poly1305, password = QCXDxuDlTTMD7jtgHUjIoj
-🔒 | ss | @URL | 299 = ss, 223.165.4.173, 990, encrypt-method = chacha20-ietf-poly1305, password = f8f7aCzcPKbsF8p3
-🔒 | ss | @URL | 6017 = ss, 45.87.175.157, 8080, encrypt-method = chacha20-ietf-poly1305, password = cvII85TrW6n0OGyfpHVS1u
-🔒 | ss | @URL | 17 = ss, 193.29.139.179, 8080, encrypt-method = chacha20-ietf-poly1305, password = cvII85TrW6n0OGyfpHVS1u
-🔒 | ss | @URL | 188 = ss, pupas-shirting-unsung.freesocks.work, 443, encrypt-method = chacha20-ietf-poly1305, password = p78naCf2EfOlRSLTX0wFVx
-🔒 | ss | @URL | 5630 = ss, 45.87.175.188, 8080, encrypt-method = chacha20-ietf-poly1305, password = 1RWwXhwfAB5gAEozU4G2Pg
+🔒 | trojan | @URL | 560 = trojan, 92.243.75.49, 2087, password = wb6368, udp-delay = true, skip-cert-verify = false, sni = hsdgbuys.pages.dev, ws = false
+🔒 | trojan | @URL | 5659 = trojan, 172.67.156.25, 443, password = f282b878-8711-45a1-8c69-5564172123c1, udp-delay = true, skip-cert-verify = false, sni = aio.zipzap.biz.id, ws = false
+8ZQi@172.66.44.230:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/tro8sFW1S91B6sZrM1?ed=2560&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 552 = trojan, 8r<[9'l6hAO, , password = , udp-delay = true, skip-cert-verify = false, ws = false
+8ZQi@koma-yt.pages.dev:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/tro8sFW1S91B6sZrM1?ed=2560&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 564 = trojan, 8r<[9'l6hAO, , password = , udp-delay = true, skip-cert-verify = false, ws = false
+🔒 | ss | @URL | 5624 = ss, 142.4.216.225, 80, encrypt-method = chacha20-ietf-poly1305, password = JIhN6rBKkaEboLNXVSv5rq
+🔒 | ss | @URL | 97 = ss, ca225.vpnbook.com, 80, encrypt-method = chacha20-ietf-poly1305, password = JIhN6rBKkaEboLNXVSv5rq
+🔒 | ss | @URL | 5926 = ss, 64.74.163.130, 990, encrypt-method = chacha20-ietf-poly1305, password = f8f7aCzcPKbsF8p3
+🔒 | trojan | @URL | 554 = trojan, dcf741e8.epeius-2gy.pages.dev, 443, password = auto, udp-delay = true, skip-cert-verify = false, sni = dcf741e8.epeius-2gy.pages.dev, ws = false
+🔒 | trojan | @URL | 566 = trojan, 172.66.46.254, 443, password = auto, udp-delay = true, skip-cert-verify = false, sni = dcf741e8.epeius-2gy.pages.dev, ws = false
+🔒 | trojan | @URL | 549 = trojan, www.visa.com.sg, 8443, password = trojan, udp-delay = true, skip-cert-verify = false, sni = pangpi.pages.dev, ws = false
+🔒 | trojan | @URL | 567 = trojan, ip.sb, 8443, password = trojan, udp-delay = true, skip-cert-verify = false, sni = fofang.pages.dev, ws = false
+🔒 | ss | @URL | 5927 = ss, 64.74.163.218, 990, encrypt-method = chacha20-ietf-poly1305, password = f8f7aCzcPKbsF8p3
+🔒 | ss | @URL | 117 = ss, 104.167.197.25, 57456, encrypt-method = chacha20-ietf-poly1305, password = 360e21d21977dc11
+🔒 | ss | @URL | 5930 = ss, 104.192.226.106, 990, encrypt-method = chacha20-ietf-poly1305, password = f8f7aCzcPKbsF8p3
+🔒 | ss | @URL | 5477 = ss, 79.127.233.170, 990, encrypt-method = chacha20-ietf-poly1305, password = f8f7aCzcPKbsF8p3
+🔒 | ss | @URL | 170 = ss, 45.158.171.66, 8080, encrypt-method = chacha20-ietf-poly1305, password = oZIoA69Q8yhcQV8ka3Pa3A
+🔒 | ss | @URL | 5527 = ss, 193.29.139.240, 8080, encrypt-method = chacha20-ietf-poly1305, password = oZIoA69Q8yhcQV8ka3Pa3A
+🔒 | ss | @URL | 5951 = ss, 193.29.139.177, 8080, encrypt-method = chacha20-ietf-poly1305, password = oZIoA69Q8yhcQV8ka3Pa3A
+🔒 | ss | @URL | 171 = ss, 45.158.171.70, 8080, encrypt-method = chacha20-ietf-poly1305, password = oZIoA69Q8yhcQV8ka3Pa3A
+🔒 | ss | @URL | 5517 = ss, 45.158.171.60, 8080, encrypt-method = chacha20-ietf-poly1305, password = oZIoA69Q8yhcQV8ka3Pa3A
+🔒 | ss | @URL | 5519 = ss, 193.29.139.235, 8080, encrypt-method = chacha20-ietf-poly1305, password = oZIoA69Q8yhcQV8ka3Pa3A
+🔒 | ss | @URL | 5907 = ss, 45.87.175.58, 8080, encrypt-method = chacha20-ietf-poly1305, password = oZIoA69Q8yhcQV8ka3Pa3A
+🔒 | trojan | @URL | 5836 = trojan, creativecommons.org, 2053, password = YwuvGJk36B, udp-delay = true, skip-cert-verify = false, sni = kotlet.arshiacomplus.dpdns.org, ws = false
+🔒 | ss | @URL | 128 = ss, 23.157.40.101, 8009, encrypt-method = aes-256-gcm, password = XKFKl2rULjIp74
+🔒 | trojan | @URL | 5628 = trojan, creativecommons.org, 2053, password = YwuvGJk36B, udp-delay = true, skip-cert-verify = false, sni = kotlet.arshiacomplus.dpdns.org, ws = false
+🔒 | ss | @URL | 281 = ss, 45.87.175.154, 8080, encrypt-method = chacha20-ietf-poly1305, password = QCXDxuDlTTMD7jtgHUjIoj
+🔒 | ss | @URL | 266 = ss, 185.177.229.245, 1866, encrypt-method = chacha20-ietf-poly1305, password = oXGp1+ihlfKg826H
+🔒 | ss | @URL | 124 = ss, 23.157.40.101, 8000, encrypt-method = aes-256-gcm, password = KixLvKzwjekG00rm
+🔒 | ss | @URL | 123 = ss, 23.157.40.101, 8008, encrypt-method = aes-256-gcm, password = XKFKl2rULjIp74
+🔒 | ss | @URL | 126 = ss, 23.157.40.101, 7307, encrypt-method = aes-256-gcm, password = FoOiGlkAA9yPEGP
+🔒 | ss | @URL | 25 = ss, 151.242.251.144, 8080, encrypt-method = chacha20-ietf-poly1305, password = 4a2rfixophdjffa8KVA4Aa
+🔒 | ss | @URL | 21 = ss, 45.158.171.110, 8080, encrypt-method = chacha20-ietf-poly1305, password = oZIoA69Q8yhcQV8ka3Pa3A
+🔒 | ss | @URL | 5950 = ss, 45.87.175.154, 8080, encrypt-method = chacha20-ietf-poly1305, password = 4a2rfixophdjffa8KVA4Aa
+🔒 | ss | @URL | 286 = ss, beesyar.org, 8080, encrypt-method = chacha20-ietf-poly1305, password = 1RWwXhwfAB5gAEozU4G2Pg
+🔒 | ss | @URL | 33 = ss, 195.181.160.6, 990, encrypt-method = chacha20-ietf-poly1305, password = f8f7aCzcPKbsF8p3
+🔒 | ss | @URL | 5512 = ss, 51.195.119.47, 1080, encrypt-method = chacha20-ietf-poly1305, password = qXvO7zYU7KeaB0Md7DQLow
+🔒 | trojan | @URL | 5712 = trojan, creativecommons.org, 2053, password = YwuvGJk36B, udp-delay = true, skip-cert-verify = false, sni = kotlet.arshiacomplus.dpdns.org, ws = false
+🔒 | ss | @URL | 5514 = ss, 213.109.147.242, 62685, encrypt-method = chacha20-ietf-poly1305, password = VpKABcOpNNA0l5G2AVOmw8
+🔒 | ss | @URL | 221 = ss, promo18v.bystrivpn.ru, 443, encrypt-method = chacha20-ietf-poly1305, password = dAHM1pm8ag7KdlrUylQi6t
+🔒 | ss | @URL | 109 = ss, 92.118.205.228, 990, encrypt-method = chacha20-ietf-poly1305, password = f8f7aCzcPKbsF8p3
+🔒 | ss | @URL | 102 = ss, 45.154.206.192, 990, encrypt-method = chacha20-ietf-poly1305, password = f8f7aCzcPKbsF8p3
+🔒 | ss | @URL | 5953 = ss, 185.231.233.173, 990, encrypt-method = chacha20-ietf-poly1305, password = f8f7aCzcPKbsF8p3
+🔒 | ss | @URL | 5946 = ss, 185.192.124.188, 990, encrypt-method = chacha20-ietf-poly1305, password = f8f7aCzcPKbsF8p3
+🔒 | ss | @URL | 269 = ss, 204.136.10.115, 1866, encrypt-method = chacha20-ietf-poly1305, password = oXGp1+ihlfKg826H
+🔒 | ss | @URL | 6039 = ss, 45.87.175.69, 8080, encrypt-method = chacha20-ietf-poly1305, password = oZIoA69Q8yhcQV8ka3Pa3A
+🔒 | ss | @URL | 18 = ss, 193.29.139.217, 8080, encrypt-method = chacha20-ietf-poly1305, password = QCXDxuDlTTMD7jtgHUjIoj
+🔒 | ss | @URL | 69 = ss, de.vpnsparta.pro, 57456, encrypt-method = chacha20-ietf-poly1305, password = c40641c1f89e7acb
+🔒 | ss | @URL | 79 = ss, 45.139.24.24, 57456, encrypt-method = chacha20-ietf-poly1305, password = 360e21d21977dc11
+🔒 | ss | @URL | 120 = ss, 95.163.176.37, 8506, encrypt-method = chacha20-ietf-poly1305, password = eUh4lSpi7nOYj0vSrqLUh0
+🔒 | ss | @URL | 70 = ss, pl.vpnsparta.pro, 57456, encrypt-method = chacha20-ietf-poly1305, password = 360e21d21977dc11
+🔒 | ss | @URL | 140 = ss, 45.87.175.22, 8080, encrypt-method = chacha20-ietf-poly1305, password = oZIoA69Q8yhcQV8ka3Pa3A
+🔒 | ss | @URL | 5936 = ss, 203.23.128.33, 990, encrypt-method = chacha20-ietf-poly1305, password = f8f7aCzcPKbsF8p3
+🔒 | ss | @URL | 5931 = ss, 103.243.215.17, 990, encrypt-method = chacha20-ietf-poly1305, password = f8f7aCzcPKbsF8p3
+🔒 | ss | @URL | 5938 = ss, 38.54.45.129, 990, encrypt-method = chacha20-ietf-poly1305, password = f8f7aCzcPKbsF8p3
+🔒 | trojan | @URL | 492 = trojan, creativecommons.org, 2053, password = YwuvGJk36B, udp-delay = true, skip-cert-verify = false, sni = kotlet.arshiacomplus.dpdns.org, ws = false
+🔒 | ss | @URL | 168 = ss, 45.87.175.65, 8080, encrypt-method = chacha20-ietf-poly1305, password = oZIoA69Q8yhcQV8ka3Pa3A
+🔒 | ss | @URL | 75 = ss, 38.165.233.18, 990, encrypt-method = chacha20-ietf-poly1305, password = f8f7aCzcPKbsF8p3
+🔒 | ss | @URL | 313 = ss, 185.93.173.218, 990, encrypt-method = chacha20-ietf-poly1305, password = f8f7aCzcPKbsF8p3
+🔒 | ss | @URL | 5592 = ss, 45.87.175.199, 8080, encrypt-method = chacha20-ietf-poly1305, password = 1RWwXhwfAB5gAEozU4G2Pg
+🔒 | ss | @URL | 308 = ss, 185.47.255.22, 990, encrypt-method = chacha20-ietf-poly1305, password = f8f7aCzcPKbsF8p3
+🔒 | ss | @URL | 24 = ss, 193.29.139.227, 8080, encrypt-method = chacha20-ietf-poly1305, password = QCXDxuDlTTMD7jtgHUjIoj
+🔒 | ss | @URL | 5875 = ss, 185.123.101.241, 990, encrypt-method = chacha20-ietf-poly1305, password = f8f7aCzcPKbsF8p3
+🔒 | ss | @URL | 5711 = ss, pupas-shirting-unsung.freesocks.work, 443, encrypt-method = chacha20-ietf-poly1305, password = p78naCf2EfOlRSLTX0wFVx
+🔒 | ss | @URL | 5955 = ss, 45.87.175.164, 8080, encrypt-method = chacha20-ietf-poly1305, password = 1RWwXhwfAB5gAEozU4G2Pg
+🔒 | ss | @URL | 58 = ss, 151.242.251.153, 8080, encrypt-method = chacha20-ietf-poly1305, password = QCXDxuDlTTMD7jtgHUjIoj
+🔒 | ss | @URL | 2514 = ss, arxfw2b78fi2q9hzylhn.freesocks.work, 443, encrypt-method = chacha20-ietf-poly1305, password = Nk9asglDzHzjktVzTkvhaA
+🔒 | ss | @URL | 2515 = ss, 160.19.78.75, 443, encrypt-method = chacha20-ietf-poly1305, password = Nk9asglDzHzjktVzTkvhaA
+🔒 | ss | @free4allVPN | 80212 = ss, 103.111.114.29, 57456, encrypt-method = chacha20-ietf-poly1305, password = 360e21d21977dc11
+🔒 | ss | @URL | 134 = ss, 181.119.30.20, 990, encrypt-method = chacha20-ietf-poly1305, password = f8f7aCzcPKbsF8p3
+🔒 | ss | @URL | 6103 = ss, 45.87.175.192, 8080, encrypt-method = chacha20-ietf-poly1305, password = 4a2rfixophdjffa8KVA4Aa
+🔒 | ss | @URL | 5944 = ss, 119.59.98.58, 990, encrypt-method = chacha20-ietf-poly1305, password = f8f7aCzcPKbsF8p3
+🔒 | ss | @URL | 163 = ss, 193.29.139.251, 8080, encrypt-method = chacha20-ietf-poly1305, password = oZIoA69Q8yhcQV8ka3Pa3A
 [Proxy Group]
-MANUAL = select,URL-TEST,FALLBACK,🔒 | trojan | @URL | 580,🔒 | trojan | @URL | 5714,🔒 | ss | @URL | 5670,🔒 | ss | @URL | 8,8ZQi@koma-yt.pages.dev:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/tro8sFW1S91B6sZrM1?ed=2560&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 584,🔒 | ss | @URL | 90,🔒 | trojan | @URL | 586,8ZQi@172.66.44.230:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/tro8sFW1S91B6sZrM1?ed=2560&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 572,🔒 | trojan | @URL | 574,🔒 | trojan | @URL | 569,🔒 | ss | @URL | 238,🔒 | ss | @URL | 10,🔒 | ss | @free4allVPN | 75946,🔒 | ss | @URL | 131,🔒 | ss | @URL | 156,🔒 | ss | @URL | 104,🔒 | ss | @URL | 5559,🔒 | ss | @URL | 67,🔒 | ss | @URL | 168,🔒 | trojan | @URL | 516,🔒 | trojan | @URL | 5678,🔒 | ss | @URL | 152,🔒 | ss | @URL | 5549,🔒 | ss | @URL | 5893,🔒 | ss | @URL | 26,🔒 | ss | @URL | 21,🔒 | ss | @URL | 284,🔒 | ss | @URL | 172,🔒 | ss | @URL | 5986,🔒 | ss | @URL | 122,🔒 | ss | @URL | 94,🔒 | ss | @URL | 35,🔒 | ss | @URL | 88,🔒 | ss | @URL | 165,🔒 | ss | @URL | 95,🔒 | ss | @URL | 97,🔒 | ss | @URL | 22,🔒 | ss | @URL | 5500,🔒 | ss | @URL | 5503,🔒 | ss | @URL | 5515,🔒 | ss | @URL | 5632,🔒 | ss | @URL | 164,🔒 | ss | @URL | 40,🔒 | ss | @URL | 99,🔒 | ss | @URL | 25,🔒 | ss | @URL | 134,🔒 | ss | @URL | 169,🔒 | ss | @URL | 331,🔒 | ss | @URL | 62,🔒 | trojan | @URL | 5771,🔒 | ss | @URL | 153,🔒 | ss | @URL | 129,🔒 | ss | @URL | 161,🔒 | ss | @URL | 5876,🔒 | ss | @URL | 5619,🔒 | ss | @URL | 18,🔒 | ss | @URL | 299,🔒 | ss | @URL | 6017,🔒 | ss | @URL | 17,🔒 | ss | @URL | 188,🔒 | ss | @URL | 5630
-URL-TEST = url-test,🔒 | trojan | @URL | 580,🔒 | trojan | @URL | 5714,🔒 | ss | @URL | 5670,🔒 | ss | @URL | 8,8ZQi@koma-yt.pages.dev:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/tro8sFW1S91B6sZrM1?ed=2560&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 584,🔒 | ss | @URL | 90,🔒 | trojan | @URL | 586,8ZQi@172.66.44.230:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/tro8sFW1S91B6sZrM1?ed=2560&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 572,🔒 | trojan | @URL | 574,🔒 | trojan | @URL | 569,🔒 | ss | @URL | 238,🔒 | ss | @URL | 10,🔒 | ss | @free4allVPN | 75946,🔒 | ss | @URL | 131,🔒 | ss | @URL | 156,🔒 | ss | @URL | 104,🔒 | ss | @URL | 5559,🔒 | ss | @URL | 67,🔒 | ss | @URL | 168,🔒 | trojan | @URL | 516,🔒 | trojan | @URL | 5678,🔒 | ss | @URL | 152,🔒 | ss | @URL | 5549,🔒 | ss | @URL | 5893,🔒 | ss | @URL | 26,🔒 | ss | @URL | 21,🔒 | ss | @URL | 284,🔒 | ss | @URL | 172,🔒 | ss | @URL | 5986,🔒 | ss | @URL | 122,🔒 | ss | @URL | 94,🔒 | ss | @URL | 35,🔒 | ss | @URL | 88,🔒 | ss | @URL | 165,🔒 | ss | @URL | 95,🔒 | ss | @URL | 97,🔒 | ss | @URL | 22,🔒 | ss | @URL | 5500,🔒 | ss | @URL | 5503,🔒 | ss | @URL | 5515,🔒 | ss | @URL | 5632,🔒 | ss | @URL | 164,🔒 | ss | @URL | 40,🔒 | ss | @URL | 99,🔒 | ss | @URL | 25,🔒 | ss | @URL | 134,🔒 | ss | @URL | 169,🔒 | ss | @URL | 331,🔒 | ss | @URL | 62,🔒 | trojan | @URL | 5771,🔒 | ss | @URL | 153,🔒 | ss | @URL | 129,🔒 | ss | @URL | 161,🔒 | ss | @URL | 5876,🔒 | ss | @URL | 5619,🔒 | ss | @URL | 18,🔒 | ss | @URL | 299,🔒 | ss | @URL | 6017,🔒 | ss | @URL | 17,🔒 | ss | @URL | 188,🔒 | ss | @URL | 5630
-FALLBACK = fallback,🔒 | trojan | @URL | 580,🔒 | trojan | @URL | 5714,🔒 | ss | @URL | 5670,🔒 | ss | @URL | 8,8ZQi@koma-yt.pages.dev:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/tro8sFW1S91B6sZrM1?ed=2560&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 584,🔒 | ss | @URL | 90,🔒 | trojan | @URL | 586,8ZQi@172.66.44.230:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/tro8sFW1S91B6sZrM1?ed=2560&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 572,🔒 | trojan | @URL | 574,🔒 | trojan | @URL | 569,🔒 | ss | @URL | 238,🔒 | ss | @URL | 10,🔒 | ss | @free4allVPN | 75946,🔒 | ss | @URL | 131,🔒 | ss | @URL | 156,🔒 | ss | @URL | 104,🔒 | ss | @URL | 5559,🔒 | ss | @URL | 67,🔒 | ss | @URL | 168,🔒 | trojan | @URL | 516,🔒 | trojan | @URL | 5678,🔒 | ss | @URL | 152,🔒 | ss | @URL | 5549,🔒 | ss | @URL | 5893,🔒 | ss | @URL | 26,🔒 | ss | @URL | 21,🔒 | ss | @URL | 284,🔒 | ss | @URL | 172,🔒 | ss | @URL | 5986,🔒 | ss | @URL | 122,🔒 | ss | @URL | 94,🔒 | ss | @URL | 35,🔒 | ss | @URL | 88,🔒 | ss | @URL | 165,🔒 | ss | @URL | 95,🔒 | ss | @URL | 97,🔒 | ss | @URL | 22,🔒 | ss | @URL | 5500,🔒 | ss | @URL | 5503,🔒 | ss | @URL | 5515,🔒 | ss | @URL | 5632,🔒 | ss | @URL | 164,🔒 | ss | @URL | 40,🔒 | ss | @URL | 99,🔒 | ss | @URL | 25,🔒 | ss | @URL | 134,🔒 | ss | @URL | 169,🔒 | ss | @URL | 331,🔒 | ss | @URL | 62,🔒 | trojan | @URL | 5771,🔒 | ss | @URL | 153,🔒 | ss | @URL | 129,🔒 | ss | @URL | 161,🔒 | ss | @URL | 5876,🔒 | ss | @URL | 5619,🔒 | ss | @URL | 18,🔒 | ss | @URL | 299,🔒 | ss | @URL | 6017,🔒 | ss | @URL | 17,🔒 | ss | @URL | 188,🔒 | ss | @URL | 5630
+MANUAL = select,URL-TEST,FALLBACK,🔒 | trojan | @URL | 560,🔒 | trojan | @URL | 5659,8ZQi@172.66.44.230:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/tro8sFW1S91B6sZrM1?ed=2560&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 552,8ZQi@koma-yt.pages.dev:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/tro8sFW1S91B6sZrM1?ed=2560&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 564,🔒 | ss | @URL | 5624,🔒 | ss | @URL | 97,🔒 | ss | @URL | 5926,🔒 | trojan | @URL | 554,🔒 | trojan | @URL | 566,🔒 | trojan | @URL | 549,🔒 | trojan | @URL | 567,🔒 | ss | @URL | 5927,🔒 | ss | @URL | 117,🔒 | ss | @URL | 5930,🔒 | ss | @URL | 5477,🔒 | ss | @URL | 170,🔒 | ss | @URL | 5527,🔒 | ss | @URL | 5951,🔒 | ss | @URL | 171,🔒 | ss | @URL | 5517,🔒 | ss | @URL | 5519,🔒 | ss | @URL | 5907,🔒 | trojan | @URL | 5836,🔒 | ss | @URL | 128,🔒 | trojan | @URL | 5628,🔒 | ss | @URL | 281,🔒 | ss | @URL | 266,🔒 | ss | @URL | 124,🔒 | ss | @URL | 123,🔒 | ss | @URL | 126,🔒 | ss | @URL | 25,🔒 | ss | @URL | 21,🔒 | ss | @URL | 5950,🔒 | ss | @URL | 286,🔒 | ss | @URL | 33,🔒 | ss | @URL | 5512,🔒 | trojan | @URL | 5712,🔒 | ss | @URL | 5514,🔒 | ss | @URL | 221,🔒 | ss | @URL | 109,🔒 | ss | @URL | 102,🔒 | ss | @URL | 5953,🔒 | ss | @URL | 5946,🔒 | ss | @URL | 269,🔒 | ss | @URL | 6039,🔒 | ss | @URL | 18,🔒 | ss | @URL | 69,🔒 | ss | @URL | 79,🔒 | ss | @URL | 120,🔒 | ss | @URL | 70,🔒 | ss | @URL | 140,🔒 | ss | @URL | 5936,🔒 | ss | @URL | 5931,🔒 | ss | @URL | 5938,🔒 | trojan | @URL | 492,🔒 | ss | @URL | 168,🔒 | ss | @URL | 75,🔒 | ss | @URL | 313,🔒 | ss | @URL | 5592,🔒 | ss | @URL | 308,🔒 | ss | @URL | 24,🔒 | ss | @URL | 5875,🔒 | ss | @URL | 5711,🔒 | ss | @URL | 5955,🔒 | ss | @URL | 58,🔒 | ss | @URL | 2514,🔒 | ss | @URL | 2515,🔒 | ss | @free4allVPN | 80212,🔒 | ss | @URL | 134,🔒 | ss | @URL | 6103,🔒 | ss | @URL | 5944,🔒 | ss | @URL | 163
+URL-TEST = url-test,🔒 | trojan | @URL | 560,🔒 | trojan | @URL | 5659,8ZQi@172.66.44.230:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/tro8sFW1S91B6sZrM1?ed=2560&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 552,8ZQi@koma-yt.pages.dev:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/tro8sFW1S91B6sZrM1?ed=2560&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 564,🔒 | ss | @URL | 5624,🔒 | ss | @URL | 97,🔒 | ss | @URL | 5926,🔒 | trojan | @URL | 554,🔒 | trojan | @URL | 566,🔒 | trojan | @URL | 549,🔒 | trojan | @URL | 567,🔒 | ss | @URL | 5927,🔒 | ss | @URL | 117,🔒 | ss | @URL | 5930,🔒 | ss | @URL | 5477,🔒 | ss | @URL | 170,🔒 | ss | @URL | 5527,🔒 | ss | @URL | 5951,🔒 | ss | @URL | 171,🔒 | ss | @URL | 5517,🔒 | ss | @URL | 5519,🔒 | ss | @URL | 5907,🔒 | trojan | @URL | 5836,🔒 | ss | @URL | 128,🔒 | trojan | @URL | 5628,🔒 | ss | @URL | 281,🔒 | ss | @URL | 266,🔒 | ss | @URL | 124,🔒 | ss | @URL | 123,🔒 | ss | @URL | 126,🔒 | ss | @URL | 25,🔒 | ss | @URL | 21,🔒 | ss | @URL | 5950,🔒 | ss | @URL | 286,🔒 | ss | @URL | 33,🔒 | ss | @URL | 5512,🔒 | trojan | @URL | 5712,🔒 | ss | @URL | 5514,🔒 | ss | @URL | 221,🔒 | ss | @URL | 109,🔒 | ss | @URL | 102,🔒 | ss | @URL | 5953,🔒 | ss | @URL | 5946,🔒 | ss | @URL | 269,🔒 | ss | @URL | 6039,🔒 | ss | @URL | 18,🔒 | ss | @URL | 69,🔒 | ss | @URL | 79,🔒 | ss | @URL | 120,🔒 | ss | @URL | 70,🔒 | ss | @URL | 140,🔒 | ss | @URL | 5936,🔒 | ss | @URL | 5931,🔒 | ss | @URL | 5938,🔒 | trojan | @URL | 492,🔒 | ss | @URL | 168,🔒 | ss | @URL | 75,🔒 | ss | @URL | 313,🔒 | ss | @URL | 5592,🔒 | ss | @URL | 308,🔒 | ss | @URL | 24,🔒 | ss | @URL | 5875,🔒 | ss | @URL | 5711,🔒 | ss | @URL | 5955,🔒 | ss | @URL | 58,🔒 | ss | @URL | 2514,🔒 | ss | @URL | 2515,🔒 | ss | @free4allVPN | 80212,🔒 | ss | @URL | 134,🔒 | ss | @URL | 6103,🔒 | ss | @URL | 5944,🔒 | ss | @URL | 163
+FALLBACK = fallback,🔒 | trojan | @URL | 560,🔒 | trojan | @URL | 5659,8ZQi@172.66.44.230:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/tro8sFW1S91B6sZrM1?ed=2560&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 552,8ZQi@koma-yt.pages.dev:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/tro8sFW1S91B6sZrM1?ed=2560&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 564,🔒 | ss | @URL | 5624,🔒 | ss | @URL | 97,🔒 | ss | @URL | 5926,🔒 | trojan | @URL | 554,🔒 | trojan | @URL | 566,🔒 | trojan | @URL | 549,🔒 | trojan | @URL | 567,🔒 | ss | @URL | 5927,🔒 | ss | @URL | 117,🔒 | ss | @URL | 5930,🔒 | ss | @URL | 5477,🔒 | ss | @URL | 170,🔒 | ss | @URL | 5527,🔒 | ss | @URL | 5951,🔒 | ss | @URL | 171,🔒 | ss | @URL | 5517,🔒 | ss | @URL | 5519,🔒 | ss | @URL | 5907,🔒 | trojan | @URL | 5836,🔒 | ss | @URL | 128,🔒 | trojan | @URL | 5628,🔒 | ss | @URL | 281,🔒 | ss | @URL | 266,🔒 | ss | @URL | 124,🔒 | ss | @URL | 123,🔒 | ss | @URL | 126,🔒 | ss | @URL | 25,🔒 | ss | @URL | 21,🔒 | ss | @URL | 5950,🔒 | ss | @URL | 286,🔒 | ss | @URL | 33,🔒 | ss | @URL | 5512,🔒 | trojan | @URL | 5712,🔒 | ss | @URL | 5514,🔒 | ss | @URL | 221,🔒 | ss | @URL | 109,🔒 | ss | @URL | 102,🔒 | ss | @URL | 5953,🔒 | ss | @URL | 5946,🔒 | ss | @URL | 269,🔒 | ss | @URL | 6039,🔒 | ss | @URL | 18,🔒 | ss | @URL | 69,🔒 | ss | @URL | 79,🔒 | ss | @URL | 120,🔒 | ss | @URL | 70,🔒 | ss | @URL | 140,🔒 | ss | @URL | 5936,🔒 | ss | @URL | 5931,🔒 | ss | @URL | 5938,🔒 | trojan | @URL | 492,🔒 | ss | @URL | 168,🔒 | ss | @URL | 75,🔒 | ss | @URL | 313,🔒 | ss | @URL | 5592,🔒 | ss | @URL | 308,🔒 | ss | @URL | 24,🔒 | ss | @URL | 5875,🔒 | ss | @URL | 5711,🔒 | ss | @URL | 5955,🔒 | ss | @URL | 58,🔒 | ss | @URL | 2514,🔒 | ss | @URL | 2515,🔒 | ss | @free4allVPN | 80212,🔒 | ss | @URL | 134,🔒 | ss | @URL | 6103,🔒 | ss | @URL | 5944,🔒 | ss | @URL | 163
 [Rule]
 GEOIP,IR,DIRECT
 FINAL,MANUAL

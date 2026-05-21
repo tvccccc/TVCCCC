@@ -118,439 +118,895 @@ dns:
     - "https://8.8.4.4/dns-query"
 
 proxies:
-  - {"name":"🔒 | ss | @URL | 5012","type":"ss","server":"149.28.255.6","port":816,"password":"GyZ5Xo0ht41vYmW3H4","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"8ZQi@50.62.89.253:443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 511","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
-  - {"name":"8ZQi@104.20.6.134:2096?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/tr&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 516","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
-  - {"name":"🔒 | ss | @URL | 5084","type":"ss","server":"62.146.171.57","port":443,"password":"jd9FR12wprKPNJHg","cipher":"aes-256-gcm"}
-  - {"name":"🔒 | ss | @URL | 31","type":"ss","server":"107.172.250.161","port":59556,"password":"QTmLViU4VEmuwbOxUw4IXd","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 108","type":"ss","server":"hackney-latest-strike.freesocks.work","port":443,"password":"XUMTygEM1jVYIvysXKqA5T","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 51","type":"ss","server":"173.234.29.2","port":990,"password":"ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 3","type":"ss","server":"79.127.200.169","port":990,"password":"ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 104","type":"ss","server":"71.19.148.74","port":443,"password":"gqkUCvmeOTghYJXF1YIuk5","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 98","type":"ss","server":"tinkered-pennies-puppies.freesocks.work","port":443,"password":"hbGrpfvNrJsUmKmPbR3iY2","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 0","type":"ss","server":"167.172.249.115","port":41195,"password":"SUSbr2eLCXmbc64xOHhgEt","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"8ZQi@31.58.226.196:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 515","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
-  - {"name":"🔒 | ss | @URL | 5","type":"ss","server":"45.55.40.127","port":49726,"password":"elTuo73FsQwO90EbLo96Ve","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 46","type":"ss","server":"admin.c1.havij.co","port":443,"password":"1kVr0KATIJI7mwOF","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 43","type":"ss","server":"admin.c1.webramz.co","port":443,"password":"W74XFALLLuw6m5IA","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 5025","type":"ss","server":"138.68.153.223","port":46576,"password":"idMvoewrSyLLvEvP03k9zR","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 5010","type":"ss","server":"series-a2.samanehha.co","port":443,"password":"W74XFALLLuw6m5IA","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 5009","type":"ss","server":"series-a1.samanehha.co","port":443,"password":"W74XFALLLuw6m5IA","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | trojan | @URL | 5103","type":"trojan","server":"188.114.98.0","port":443,"udp":false,"password":"humanity","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"www.calmlunch.com"}
-  - {"name":"🔒 | ss | @URL | 25","type":"ss","server":"82.38.31.149","port":8080,"password":"oZIoA69Q8yhcQV8ka3Pa3A","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | trojan | @URL | 5110","type":"trojan","server":"8.6.112.6","port":443,"udp":false,"password":"humanity","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"www.calmloud.com"}
-  - {"name":"🔒 | ss | @URL | 50","type":"ss","server":"159.223.236.36","port":19582,"password":"WC0GbiCk67K8nHDaDHmYIX","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 22","type":"ss","server":"82.38.31.218","port":8080,"password":"k1dBOmOB4oqi7Ump37a1bQ","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | trojan | @URL | 5100","type":"trojan","server":"104.20.6.134","port":443,"udp":false,"password":"humanity","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"www.calmloud.com"}
-  - {"name":"🔒 | ss | @URL | 87","type":"ss","server":"82.38.31.199","port":8080,"password":"k1dBOmOB4oqi7Ump37a1bQ","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 24","type":"ss","server":"82.38.31.189","port":8080,"password":"k1dBOmOB4oqi7Ump37a1bQ","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 12","type":"ss","server":"82.38.31.210","port":8080,"password":"k1dBOmOB4oqi7Ump37a1bQ","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 26","type":"ss","server":"82.38.31.176","port":8080,"password":"k1dBOmOB4oqi7Ump37a1bQ","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 53","type":"ss","server":"8.209.74.72","port":20001,"password":"PWpjPo3tqhPN4yRZ","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 13","type":"ss","server":"82.38.31.208","port":8080,"password":"k1dBOmOB4oqi7Ump37a1bQ","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 15","type":"ss","server":"82.38.31.217","port":8080,"password":"k1dBOmOB4oqi7Ump37a1bQ","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 5052","type":"ss","server":"82.38.31.35","port":8080,"password":"oZIoA69Q8yhcQV8ka3Pa3A","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 5032","type":"ss","server":"82.38.31.202","port":8080,"password":"k1dBOmOB4oqi7Ump37a1bQ","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 5041","type":"ss","server":"193.29.139.204","port":8080,"password":"oZIoA69Q8yhcQV8ka3Pa3A","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 6","type":"ss","server":"193.29.139.206","port":8080,"password":"4a2rfixophdjffa8KVA4Aa","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 28","type":"ss","server":"82.38.31.155","port":8080,"password":"oZIoA69Q8yhcQV8ka3Pa3A","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 17","type":"ss","server":"82.38.31.186","port":8080,"password":"k1dBOmOB4oqi7Ump37a1bQ","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 5015","type":"ss","server":"46.101.196.138","port":23243,"password":"Q7cjiVD0oKNE2o9sUnZKQg","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | trojan | @URL | 5115","type":"trojan","server":"185.18.250.245","port":443,"udp":false,"password":"humanity","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"www.calmlunch.com"}
-  - {"name":"🔒 | trojan | @URL | 5097","type":"trojan","server":"104.18.13.149","port":443,"udp":false,"password":"humanity","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"www.calmloud.com"}
-  - {"name":"🔒 | ss | @URL | 5027","type":"ss","server":"82.38.31.179","port":8080,"password":"k1dBOmOB4oqi7Ump37a1bQ","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 83","type":"ss","server":"193.29.139.179","port":8080,"password":"cvII85TrW6n0OGyfpHVS1u","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 30","type":"ss","server":"193.29.139.157","port":8080,"password":"4a2rfixophdjffa8KVA4Aa","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 16","type":"ss","server":"193.29.139.189","port":8080,"password":"cvII85TrW6n0OGyfpHVS1u","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 19","type":"ss","server":"82.38.31.205","port":8080,"password":"k1dBOmOB4oqi7Ump37a1bQ","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 5022","type":"ss","server":"193.29.139.217","port":8080,"password":"cvII85TrW6n0OGyfpHVS1u","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 21","type":"ss","server":"82.38.31.191","port":8080,"password":"k1dBOmOB4oqi7Ump37a1bQ","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 9","type":"ss","server":"193.29.139.217","port":8080,"password":"QCXDxuDlTTMD7jtgHUjIoj","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"8ZQi@194.76.173.184:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 512","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
-  - {"name":"🔒 | ss | @URL | 7","type":"ss","server":"82.38.31.190","port":8080,"password":"k1dBOmOB4oqi7Ump37a1bQ","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 20","type":"ss","server":"82.38.31.187","port":8080,"password":"k1dBOmOB4oqi7Ump37a1bQ","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 5017","type":"ss","server":"193.29.139.199","port":8080,"password":"QCXDxuDlTTMD7jtgHUjIoj","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 18","type":"ss","server":"82.38.31.194","port":8080,"password":"k1dBOmOB4oqi7Ump37a1bQ","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 122","type":"ss","server":"82.38.31.184","port":8080,"password":"k1dBOmOB4oqi7Ump37a1bQ","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 5021","type":"ss","server":"193.29.139.157","port":8080,"password":"cvII85TrW6n0OGyfpHVS1u","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 5039","type":"ss","server":"193.29.139.151","port":8080,"password":"oZIoA69Q8yhcQV8ka3Pa3A","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 139","type":"ss","server":"r3mrcg001269pz2.cybervena.com","port":50099,"password":"7e731ec3-f8e1-43f6-92cf-3978d14705c4","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 4976","type":"ss","server":"r3mrcg00129437x.cybervena.com","port":50099,"password":"7e731ec3-f8e1-43f6-92cf-3978d14705c4","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 69","type":"ss","server":"r3mrcg001287h3p.cybervena.com","port":50099,"password":"7e731ec3-f8e1-43f6-92cf-3978d14705c4","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 76","type":"ss","server":"r3mrcg0011499tl.cybervena.com","port":50099,"password":"7e731ec3-f8e1-43f6-92cf-3978d14705c4","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 5018","type":"ss","server":"213.109.147.242","port":62685,"password":"VpKABcOpNNA0l5G2AVOmw8","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 4980","type":"ss","server":"193.29.139.143","port":8080,"password":"1RWwXhwfAB5gAEozU4G2Pg","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 4969","type":"ss","server":"r3mrcg007134n4g.cybervena.com","port":50099,"password":"7e731ec3-f8e1-43f6-92cf-3978d14705c4","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 93","type":"ss","server":"r3mrcg007117fb8.cybervena.com","port":50099,"password":"7e731ec3-f8e1-43f6-92cf-3978d14705c4","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 5016","type":"ss","server":"193.29.139.227","port":8080,"password":"QCXDxuDlTTMD7jtgHUjIoj","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 5037","type":"ss","server":"82.38.31.214","port":8080,"password":"k1dBOmOB4oqi7Ump37a1bQ","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 70","type":"ss","server":"r3mrcg001286ek2.cybervena.com","port":50099,"password":"7e731ec3-f8e1-43f6-92cf-3978d14705c4","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 77","type":"ss","server":"nbmrcg0034686rw.cybervena.com","port":50099,"password":"7e731ec3-f8e1-43f6-92cf-3978d14705c4","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 4974","type":"ss","server":"193.29.139.217","port":8080,"password":"4a2rfixophdjffa8KVA4Aa","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 115","type":"ss","server":"185.47.253.227","port":990,"password":"ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 95","type":"ss","server":"154.205.153.107","port":990,"password":"ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | trojan | @URL | 5117","type":"trojan","server":"188.114.96.3","port":443,"udp":false,"password":"humanity","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"www.creationlong.org"}
-  - {"name":"🔒 | ss | @URL | 101","type":"ss","server":"37.235.56.69","port":990,"password":"ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 4992","type":"ss","server":"46.183.217.204","port":990,"password":"ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 119","type":"ss","server":"154.223.20.79","port":990,"password":"ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 102","type":"ss","server":"176.126.83.158","port":990,"password":"ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | trojan | @URL | 5105","type":"trojan","server":"104.21.40.34","port":443,"udp":false,"password":"humanity","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"www.gossipglove.com"}
-  - {"name":"🔒 | ss | @URL | 62","type":"ss","server":"185.113.143.186","port":990,"password":"ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 38","type":"ss","server":"190.103.176.32","port":990,"password":"ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 65","type":"ss","server":"193.47.60.186","port":28687,"password":"yKVMoB3AwiTEznpnoq2FYR","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 5008","type":"ss","server":"154.46.31.106","port":443,"password":"QFWzCw2uX9B9i6qAYeFBIE","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 4984","type":"ss","server":"138.186.142.81","port":990,"password":"ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 107","type":"ss","server":"138.186.143.32","port":990,"password":"ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 129","type":"ss","server":"188.214.157.58","port":990,"password":"ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 52","type":"ss","server":"138.186.142.80","port":990,"password":"ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 68","type":"ss","server":"209.182.232.30","port":41348,"password":"UlGOeb1ImdVe3rc45c3J5wxd4cubJi0aVVRtGi","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 111","type":"ss","server":"38.60.250.107","port":990,"password":"ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 4979","type":"ss","server":"139.59.87.22","port":16970,"password":"6ThD1AgwXc8Stpp7hEohLa","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 110","type":"ss","server":"154.70.207.97","port":990,"password":"ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 4987","type":"ss","server":"147.78.0.182","port":990,"password":"ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 5024","type":"ss","server":"102.129.229.85","port":31700,"password":"d7zh2lMrXNH5+8+8pKzlxiCU9NN022ih+uAyxj5d4qo=","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 5064","type":"ss","server":"185.111.156.33","port":80,"password":"5mCH4624QflO1cFR","cipher":"aes-256-gcm"}
-  - {"name":"🔒 | ss | @URL | 103","type":"ss","server":"185.93.173.60","port":990,"password":"ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 5063","type":"ss","server":"38.180.216.114","port":7307,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
-  - {"name":"🔒 | ss | @URL | 63","type":"ss","server":"102.133.165.160","port":16233,"password":"Xsy8Ox4yOV3xLlpxtjzs3X","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @URL | 43","type":"ss","server":"173.234.29.2","port":990,"password":"ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @URL | 36","type":"ss","server":"107.172.250.161","port":59556,"password":"QTmLViU4VEmuwbOxUw4IXd","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @URL | 38","type":"ss","server":"149.28.255.6","port":816,"password":"GyZ5Xo0ht41vYmW3H4","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @URL | 2","type":"ss","server":"79.127.200.169","port":990,"password":"ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @URL | 81","type":"ss","server":"tinkered-pennies-puppies.freesocks.work","port":443,"password":"hbGrpfvNrJsUmKmPbR3iY2","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"8ZQi@5.161.129.142:443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 556","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@129.158.241.2:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 549","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"🔒 | ss | @URL | 90","type":"ss","server":"167.172.249.115","port":41195,"password":"SUSbr2eLCXmbc64xOHhgEt","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"8ZQi@38.132.122.241:443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 560","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"🔒 | ss | @URL | 0","type":"ss","server":"45.55.40.127","port":49726,"password":"elTuo73FsQwO90EbLo96Ve","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @URL | 62","type":"ss","server":"23.95.76.59","port":990,"password":"ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"8ZQi@156.225.72.253:443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/tr | TG@proxyshareCN | &Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 548","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"🔒 | ss | @URL | 5263","type":"ss","server":"62.146.171.57","port":443,"password":"jd9FR12wprKPNJHg","cipher":"aes-256-gcm"}
+  - {"name":"8ZQi@38.146.25.162:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 557","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"🔒 | ss | @URL | 127","type":"ss","server":"hackney-latest-strike.freesocks.work","port":443,"password":"XUMTygEM1jVYIvysXKqA5T","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @URL | 5190","type":"ss","server":"admin.c1.webramz.co","port":443,"password":"W74XFALLLuw6m5IA","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @URL | 48","type":"ss","server":"admin.c1.havij.co","port":443,"password":"1kVr0KATIJI7mwOF","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @URL | 45","type":"ss","server":"series-a2.samanehha.co","port":443,"password":"W74XFALLLuw6m5IA","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @URL | 44","type":"ss","server":"138.68.153.223","port":46576,"password":"idMvoewrSyLLvEvP03k9zR","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @URL | 5188","type":"ss","server":"series-a1.samanehha.co","port":443,"password":"W74XFALLLuw6m5IA","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"8ZQi@43.245.227.108:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1248","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"🔒 | ss | @URL | 52","type":"ss","server":"159.223.236.36","port":19582,"password":"WC0GbiCk67K8nHDaDHmYIX","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | trojan | @URL | 5276","type":"trojan","server":"104.18.13.149","port":443,"udp":false,"password":"humanity","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"www.calmloud.com"}
+  - {"name":"8ZQi@195.123.216.125:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1210","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"🔒 | trojan | @URL | 5279","type":"trojan","server":"104.20.6.134","port":443,"udp":false,"password":"humanity","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"www.calmloud.com"}
+  - {"name":"8ZQi@45.81.225.153:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1253","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@103.54.18.22:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 558","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"🔒 | ss | @URL | 85","type":"ss","server":"213.109.147.242","port":62685,"password":"VpKABcOpNNA0l5G2AVOmw8","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @URL | 5195","type":"ss","server":"193.29.139.227","port":8080,"password":"QCXDxuDlTTMD7jtgHUjIoj","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @URL | 5225","type":"ss","server":"82.38.31.149","port":8080,"password":"oZIoA69Q8yhcQV8ka3Pa3A","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @URL | 34","type":"ss","server":"193.29.139.206","port":8080,"password":"4a2rfixophdjffa8KVA4Aa","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"8ZQi@188.130.207.119:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1195","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@45.84.88.232:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1255","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@82.115.7.135:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1281","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"🔒 | ss | @URL | 5216","type":"ss","server":"82.38.31.214","port":8080,"password":"k1dBOmOB4oqi7Ump37a1bQ","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @URL | 5152","type":"ss","server":"193.29.139.157","port":8080,"password":"4a2rfixophdjffa8KVA4Aa","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @URL | 5212","type":"ss","server":"82.38.31.199","port":8080,"password":"k1dBOmOB4oqi7Ump37a1bQ","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"8ZQi@31.58.76.27:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1242","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"🔒 | ss | @URL | 5231","type":"ss","server":"82.38.31.35","port":8080,"password":"oZIoA69Q8yhcQV8ka3Pa3A","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @URL | 10","type":"ss","server":"82.38.31.218","port":8080,"password":"k1dBOmOB4oqi7Ump37a1bQ","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @URL | 5215","type":"ss","server":"82.38.31.210","port":8080,"password":"k1dBOmOB4oqi7Ump37a1bQ","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"8ZQi@43.245.227.108:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1247","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@87.251.77.196:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1287","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"🔒 | ss | @URL | 25","type":"ss","server":"193.29.139.189","port":8080,"password":"cvII85TrW6n0OGyfpHVS1u","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @URL | 20","type":"ss","server":"82.38.31.155","port":8080,"password":"oZIoA69Q8yhcQV8ka3Pa3A","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"8ZQi@150.241.76.155:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1188","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@31.59.103.186:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1244","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@147.45.197.95:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1187","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"🔒 | ss | @URL | 5211","type":"ss","server":"82.38.31.202","port":8080,"password":"k1dBOmOB4oqi7Ump37a1bQ","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @URL | 28","type":"ss","server":"193.29.139.179","port":8080,"password":"cvII85TrW6n0OGyfpHVS1u","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @URL | 8","type":"ss","server":"82.38.31.186","port":8080,"password":"k1dBOmOB4oqi7Ump37a1bQ","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"8ZQi@31.58.76.27:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1243","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@46.249.44.245:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1259","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"🔒 | ss | @URL | 5214","type":"ss","server":"82.38.31.208","port":8080,"password":"k1dBOmOB4oqi7Ump37a1bQ","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"8ZQi@46.243.3.200:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1258","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"🔒 | ss | @URL | 5200","type":"ss","server":"193.29.139.157","port":8080,"password":"cvII85TrW6n0OGyfpHVS1u","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"8ZQi@31.220.4.189:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1228","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"🔒 | ss | @URL | 5207","type":"ss","server":"82.38.31.184","port":8080,"password":"k1dBOmOB4oqi7Ump37a1bQ","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @URL | 5218","type":"ss","server":"193.29.139.151","port":8080,"password":"oZIoA69Q8yhcQV8ka3Pa3A","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"8ZQi@46.229.253.73:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1257","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@77.239.98.191:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1277","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@195.123.218.46:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1212","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"🔒 | ss | @URL | 5208","type":"ss","server":"82.38.31.190","port":8080,"password":"k1dBOmOB4oqi7Ump37a1bQ","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @URL | 5220","type":"ss","server":"193.29.139.204","port":8080,"password":"oZIoA69Q8yhcQV8ka3Pa3A","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @URL | 5194","type":"ss","server":"46.101.196.138","port":23243,"password":"Q7cjiVD0oKNE2o9sUnZKQg","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"8ZQi@195.211.124.140:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1215","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"🔒 | ss | @URL | 5153","type":"ss","server":"193.29.139.217","port":8080,"password":"4a2rfixophdjffa8KVA4Aa","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @URL | 5201","type":"ss","server":"193.29.139.217","port":8080,"password":"cvII85TrW6n0OGyfpHVS1u","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @URL | 21","type":"ss","server":"82.38.31.205","port":8080,"password":"k1dBOmOB4oqi7Ump37a1bQ","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @URL | 30","type":"ss","server":"193.29.139.217","port":8080,"password":"QCXDxuDlTTMD7jtgHUjIoj","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @URL | 12","type":"ss","server":"82.38.31.191","port":8080,"password":"k1dBOmOB4oqi7Ump37a1bQ","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @URL | 5159","type":"ss","server":"193.29.139.143","port":8080,"password":"1RWwXhwfAB5gAEozU4G2Pg","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"8ZQi@185.218.137.139:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1192","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"🔒 | ss | @URL | 5210","type":"ss","server":"82.38.31.194","port":8080,"password":"k1dBOmOB4oqi7Ump37a1bQ","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"8ZQi@194.116.217.120:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1203","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"🔒 | ss | @URL | 5192","type":"ss","server":"8.209.74.72","port":20001,"password":"PWpjPo3tqhPN4yRZ","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"8ZQi@37.46.19.79:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1246","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@31.56.222.119:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1230","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@138.124.54.117:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1181","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@89.107.10.22:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1289","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@78.40.196.36:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1280","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"🔒 | trojan | @URL | 5289","type":"trojan","server":"8.6.112.6","port":443,"udp":false,"password":"humanity","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"www.calmloud.com"}
+  - {"name":"🔒 | ss | @URL | 11","type":"ss","server":"82.38.31.176","port":8080,"password":"k1dBOmOB4oqi7Ump37a1bQ","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @URL | 23","type":"ss","server":"82.38.31.217","port":8080,"password":"k1dBOmOB4oqi7Ump37a1bQ","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"8ZQi@193.23.216.14:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1202","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"🔒 | ss | @URL | 5196","type":"ss","server":"193.29.139.199","port":8080,"password":"QCXDxuDlTTMD7jtgHUjIoj","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"8ZQi@113.30.190.244:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1179","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@89.110.117.53:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1291","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"🔒 | ss | @URL | 116","type":"ss","server":"82.38.31.179","port":8080,"password":"k1dBOmOB4oqi7Ump37a1bQ","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"8ZQi@77.239.98.192:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1278","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@146.103.106.115:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1185","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@146.19.168.188:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1186","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@91.220.8.170:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1297","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@185.233.80.60:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1193","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@138.124.50.47:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1180","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@94.103.80.218:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1300","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@144.31.188.1:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1183","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"🔒 | trojan | @URL | 5282","type":"trojan","server":"188.114.98.0","port":443,"udp":false,"password":"humanity","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"www.calmlunch.com"}
+  - {"name":"8ZQi@77.110.106.55:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1271","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@195.200.17.170:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1214","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"🔒 | trojan | @URL | 5294","type":"trojan","server":"185.18.250.245","port":443,"udp":false,"password":"humanity","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"www.calmlunch.com"}
+  - {"name":"🔒 | ss | @URL | 5170","type":"ss","server":"38.60.250.107","port":990,"password":"ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"8ZQi@62.60.247.251:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1269","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@89.110.110.9:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1290","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@89.124.81.129:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1293","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@194.28.226.46:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1208","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@185.170.154.109:443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 552","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@83.147.253.124:443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 554","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@212.34.153.206:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1219","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@77.238.230.228:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1274","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@144.31.57.146:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1184","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@88.218.78.20:2096?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1288","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@77.246.110.179:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1279","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@91.196.32.171:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1296","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@45.84.88.204:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1254","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"🔒 | ss | @URL | 99","type":"ss","server":"154.205.153.107","port":990,"password":"ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @URL | 110","type":"ss","server":"37.235.56.69","port":990,"password":"ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"8ZQi@31.56.227.49:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1232","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@212.113.112.236:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1216","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@31.57.62.145:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1239","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@94.183.235.247:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1307","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@188.241.241.32:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1201","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@5.178.96.130:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1264","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@5.178.96.74:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1265","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"🔒 | ss | @URL | 120","type":"ss","server":"71.19.148.74","port":443,"password":"gqkUCvmeOTghYJXF1YIuk5","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"8ZQi@77.221.143.81:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1273","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@95.156.204.82:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1308","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@5.35.37.238:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1266","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@94.183.191.189:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1304","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@94.183.191.33:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1306","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"🔒 | trojan | @URL | 5296","type":"trojan","server":"188.114.96.3","port":443,"udp":false,"password":"humanity","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"www.creationlong.org"}
+  - {"name":"8ZQi@212.34.152.202:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1218","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@45.38.139.127:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1251","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@82.118.22.141:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1283","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@94.183.189.34:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1303","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@31.57.92.205:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1240","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@109.248.162.144:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1178","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@45.38.139.214:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1252","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@45.144.234.149:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1250","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"🔒 | ss | @URL | 5171","type":"ss","server":"46.183.217.204","port":990,"password":"ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"8ZQi@188.215.31.178:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1198","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@217.19.4.246:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1223","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@46.8.71.206:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1262","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@94.183.189.34:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1302","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@82.118.22.141:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1282","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@188.215.31.98:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1200","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@213.232.204.65:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1221","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@167.179.76.8:443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 551","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@91.108.189.152:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1294","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@92.246.136.90:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1299","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@94.183.191.228:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1305","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@194.135.38.131:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1205","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@5.144.179.49:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1263","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@31.56.222.222:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1231","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@188.215.31.110:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1197","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@31.57.26.194:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1236","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@46.102.156.144:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1256","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@45.138.102.92:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1249","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"🔒 | ss | @URL | 5161","type":"ss","server":"176.126.83.158","port":990,"password":"ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @URL | 122","type":"ss","server":"185.47.253.227","port":990,"password":"ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"8ZQi@46.8.236.104:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1260","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@152.53.153.158:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1189","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@31.57.27.233:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1237","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@188.215.31.36:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1199","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@194.120.116.68:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1204","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@62.60.150.140:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1268","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@168.138.46.67:443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 553","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@46.8.236.104:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1261","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"🔒 | ss | @URL | 69","type":"ss","server":"185.113.143.186","port":990,"password":"ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"8ZQi@91.184.243.61:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1295","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@144.124.225.4:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1182","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"🔒 | ss | @URL | 41","type":"ss","server":"190.103.176.32","port":990,"password":"ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"8ZQi@77.238.252.140:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1276","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@77.110.108.196:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1272","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@31.56.196.56:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1229","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@185.252.177.115:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1194","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@195.135.252.148:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1213","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"🔒 | ss | @URL | 74","type":"ss","server":"r3mrcg00129437x.cybervena.com","port":50099,"password":"7e731ec3-f8e1-43f6-92cf-3978d14705c4","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @URL | 5151","type":"ss","server":"r3mrcg001286ek2.cybervena.com","port":50099,"password":"7e731ec3-f8e1-43f6-92cf-3978d14705c4","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @URL | 5156","type":"ss","server":"r3mrcg0011499tl.cybervena.com","port":50099,"password":"7e731ec3-f8e1-43f6-92cf-3978d14705c4","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @URL | 93","type":"ss","server":"r3mrcg001287h3p.cybervena.com","port":50099,"password":"7e731ec3-f8e1-43f6-92cf-3978d14705c4","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @URL | 186","type":"ss","server":"r3mrcg007147vhp.cybervena.com","port":50099,"password":"7e731ec3-f8e1-43f6-92cf-3978d14705c4","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @URL | 5157","type":"ss","server":"r3mrcg007117fb8.cybervena.com","port":50099,"password":"7e731ec3-f8e1-43f6-92cf-3978d14705c4","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @URL | 5148","type":"ss","server":"r3mrcg007134n4g.cybervena.com","port":50099,"password":"7e731ec3-f8e1-43f6-92cf-3978d14705c4","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @URL | 5242","type":"ss","server":"38.180.216.114","port":7307,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
+  - {"name":"🔒 | ss | @URL | 185","type":"ss","server":"r3mrcg001269pz2.cybervena.com","port":50099,"password":"7e731ec3-f8e1-43f6-92cf-3978d14705c4","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @URL | 76","type":"ss","server":"nbmrcg0034686rw.cybervena.com","port":50099,"password":"7e731ec3-f8e1-43f6-92cf-3978d14705c4","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"8ZQi@62.60.250.48:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1270","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@212.34.155.252:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1220","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@31.57.105.242:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1234","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"🔒 | ss | @URL | 26","type":"ss","server":"82.38.31.189","port":8080,"password":"k1dBOmOB4oqi7Ump37a1bQ","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"8ZQi@92.118.233.134:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1298","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"🔒 | ss | @URL | 126","type":"ss","server":"154.223.20.79","port":990,"password":"ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @URL | 5266","type":"ss","server":"38.180.161.123","port":8119,"password":"cdBIDV42DCwnfIN","cipher":"aes-256-gcm"}
+  - {"name":"🔒 | ss | @URL | 101","type":"ss","server":"154.70.207.97","port":990,"password":"ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"8ZQi@62.182.196.202:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1267","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"🔒 | ss | @URL | 5187","type":"ss","server":"154.46.31.106","port":443,"password":"QFWzCw2uX9B9i6qAYeFBIE","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"8ZQi@176.124.201.78:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1190","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"🔒 | ss | @URL | 5163","type":"ss","server":"138.186.142.81","port":990,"password":"ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @URL | 111","type":"ss","server":"138.186.143.32","port":990,"password":"ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @URL | 42","type":"ss","server":"138.186.142.80","port":990,"password":"ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"8ZQi@85.193.91.193:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1285","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"🔒 | ss | @URL | 5","type":"ss","server":"82.38.31.187","port":8080,"password":"k1dBOmOB4oqi7Ump37a1bQ","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"8ZQi@85.193.90.131:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1284","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@31.57.61.76:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1238","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@217.60.39.42:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1225","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"🔒 | ss | @URL | 5166","type":"ss","server":"147.78.0.182","port":990,"password":"ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @URL | 5158","type":"ss","server":"139.59.87.22","port":16970,"password":"6ThD1AgwXc8Stpp7hEohLa","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @URL | 64","type":"ss","server":"38.165.231.25","port":990,"password":"ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @URL | 106","type":"ss","server":"185.93.173.60","port":990,"password":"ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @URL | 5203","type":"ss","server":"102.129.229.85","port":31700,"password":"d7zh2lMrXNH5+8+8pKzlxiCU9NN022ih+uAyxj5d4qo=","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @URL | 88","type":"ss","server":"193.135.174.135","port":990,"password":"ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🔒 | ss | @URL | 91","type":"ss","server":"154.205.150.157","port":990,"password":"ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 64","type":"ss","server":"102.37.156.224","port":443,"password":"aduB9HGxQHjA2SBMRjkHX6","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 4986","type":"ss","server":"156.38.168.58","port":990,"password":"ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 1943","type":"ss","server":"20.87.107.99","port":443,"password":"akMKO9KXowxFcx5A","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 4989","type":"ss","server":"188.214.157.30","port":990,"password":"ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 170","type":"ss","server":"193.135.174.135","port":990,"password":"ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 61","type":"ss","server":"38.165.231.25","port":990,"password":"ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 60","type":"ss","server":"23.95.76.59","port":990,"password":"ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @URL | 59","type":"ss","server":"45.154.204.7","port":990,"password":"ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @URL | 65","type":"ss","server":"102.37.156.224","port":443,"password":"aduB9HGxQHjA2SBMRjkHX6","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @URL | 49","type":"ss","server":"156.38.168.58","port":990,"password":"ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @URL | 66","type":"ss","server":"102.133.165.160","port":16233,"password":"Xsy8Ox4yOV3xLlpxtjzs3X","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @URL | 2120","type":"ss","server":"20.87.107.99","port":443,"password":"akMKO9KXowxFcx5A","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @URL | 5246","type":"ss","server":"141.164.45.187","port":6679,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
 proxy-groups:
   - name: MANUAL
     type: select
     proxies:
       - URL-TEST
       - FALLBACK
-      - '🔒 | ss | @URL | 5012'
-      - '8ZQi@50.62.89.253:443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 511'
-      - '8ZQi@104.20.6.134:2096?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/tr&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 516'
-      - '🔒 | ss | @URL | 5084'
-      - '🔒 | ss | @URL | 31'
-      - '🔒 | ss | @URL | 108'
-      - '🔒 | ss | @URL | 51'
-      - '🔒 | ss | @URL | 3'
-      - '🔒 | ss | @URL | 104'
-      - '🔒 | ss | @URL | 98'
-      - '🔒 | ss | @URL | 0'
-      - '8ZQi@31.58.226.196:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 515'
-      - '🔒 | ss | @URL | 5'
-      - '🔒 | ss | @URL | 46'
       - '🔒 | ss | @URL | 43'
-      - '🔒 | ss | @URL | 5025'
-      - '🔒 | ss | @URL | 5010'
-      - '🔒 | ss | @URL | 5009'
-      - '🔒 | trojan | @URL | 5103'
-      - '🔒 | ss | @URL | 25'
-      - '🔒 | trojan | @URL | 5110'
-      - '🔒 | ss | @URL | 50'
-      - '🔒 | ss | @URL | 22'
-      - '🔒 | trojan | @URL | 5100'
-      - '🔒 | ss | @URL | 87'
-      - '🔒 | ss | @URL | 24'
-      - '🔒 | ss | @URL | 12'
-      - '🔒 | ss | @URL | 26'
-      - '🔒 | ss | @URL | 53'
-      - '🔒 | ss | @URL | 13'
-      - '🔒 | ss | @URL | 15'
-      - '🔒 | ss | @URL | 5052'
-      - '🔒 | ss | @URL | 5032'
-      - '🔒 | ss | @URL | 5041'
-      - '🔒 | ss | @URL | 6'
-      - '🔒 | ss | @URL | 28'
-      - '🔒 | ss | @URL | 17'
-      - '🔒 | ss | @URL | 5015'
-      - '🔒 | trojan | @URL | 5115'
-      - '🔒 | trojan | @URL | 5097'
-      - '🔒 | ss | @URL | 5027'
-      - '🔒 | ss | @URL | 83'
-      - '🔒 | ss | @URL | 30'
-      - '🔒 | ss | @URL | 16'
-      - '🔒 | ss | @URL | 19'
-      - '🔒 | ss | @URL | 5022'
-      - '🔒 | ss | @URL | 21'
-      - '🔒 | ss | @URL | 9'
-      - '8ZQi@194.76.173.184:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 512'
-      - '🔒 | ss | @URL | 7'
-      - '🔒 | ss | @URL | 20'
-      - '🔒 | ss | @URL | 5017'
-      - '🔒 | ss | @URL | 18'
-      - '🔒 | ss | @URL | 122'
-      - '🔒 | ss | @URL | 5021'
-      - '🔒 | ss | @URL | 5039'
-      - '🔒 | ss | @URL | 139'
-      - '🔒 | ss | @URL | 4976'
-      - '🔒 | ss | @URL | 69'
-      - '🔒 | ss | @URL | 76'
-      - '🔒 | ss | @URL | 5018'
-      - '🔒 | ss | @URL | 4980'
-      - '🔒 | ss | @URL | 4969'
-      - '🔒 | ss | @URL | 93'
-      - '🔒 | ss | @URL | 5016'
-      - '🔒 | ss | @URL | 5037'
-      - '🔒 | ss | @URL | 70'
-      - '🔒 | ss | @URL | 77'
-      - '🔒 | ss | @URL | 4974'
-      - '🔒 | ss | @URL | 115'
-      - '🔒 | ss | @URL | 95'
-      - '🔒 | trojan | @URL | 5117'
-      - '🔒 | ss | @URL | 101'
-      - '🔒 | ss | @URL | 4992'
-      - '🔒 | ss | @URL | 119'
-      - '🔒 | ss | @URL | 102'
-      - '🔒 | trojan | @URL | 5105'
-      - '🔒 | ss | @URL | 62'
+      - '🔒 | ss | @URL | 36'
       - '🔒 | ss | @URL | 38'
-      - '🔒 | ss | @URL | 65'
-      - '🔒 | ss | @URL | 5008'
-      - '🔒 | ss | @URL | 4984'
-      - '🔒 | ss | @URL | 107'
-      - '🔒 | ss | @URL | 129'
+      - '🔒 | ss | @URL | 2'
+      - '🔒 | ss | @URL | 81'
+      - '8ZQi@5.161.129.142:443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 556'
+      - '8ZQi@129.158.241.2:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 549'
+      - '🔒 | ss | @URL | 90'
+      - '8ZQi@38.132.122.241:443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 560'
+      - '🔒 | ss | @URL | 0'
+      - '🔒 | ss | @URL | 62'
+      - '8ZQi@156.225.72.253:443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/tr | TG@proxyshareCN | &Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 548'
+      - '🔒 | ss | @URL | 5263'
+      - '8ZQi@38.146.25.162:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 557'
+      - '🔒 | ss | @URL | 127'
+      - '🔒 | ss | @URL | 5190'
+      - '🔒 | ss | @URL | 48'
+      - '🔒 | ss | @URL | 45'
+      - '🔒 | ss | @URL | 44'
+      - '🔒 | ss | @URL | 5188'
+      - '8ZQi@43.245.227.108:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1248'
       - '🔒 | ss | @URL | 52'
-      - '🔒 | ss | @URL | 68'
-      - '🔒 | ss | @URL | 111'
-      - '🔒 | ss | @URL | 4979'
+      - '🔒 | trojan | @URL | 5276'
+      - '8ZQi@195.123.216.125:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1210'
+      - '🔒 | trojan | @URL | 5279'
+      - '8ZQi@45.81.225.153:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1253'
+      - '8ZQi@103.54.18.22:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 558'
+      - '🔒 | ss | @URL | 85'
+      - '🔒 | ss | @URL | 5195'
+      - '🔒 | ss | @URL | 5225'
+      - '🔒 | ss | @URL | 34'
+      - '8ZQi@188.130.207.119:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1195'
+      - '8ZQi@45.84.88.232:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1255'
+      - '8ZQi@82.115.7.135:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1281'
+      - '🔒 | ss | @URL | 5216'
+      - '🔒 | ss | @URL | 5152'
+      - '🔒 | ss | @URL | 5212'
+      - '8ZQi@31.58.76.27:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1242'
+      - '🔒 | ss | @URL | 5231'
+      - '🔒 | ss | @URL | 10'
+      - '🔒 | ss | @URL | 5215'
+      - '8ZQi@43.245.227.108:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1247'
+      - '8ZQi@87.251.77.196:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1287'
+      - '🔒 | ss | @URL | 25'
+      - '🔒 | ss | @URL | 20'
+      - '8ZQi@150.241.76.155:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1188'
+      - '8ZQi@31.59.103.186:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1244'
+      - '8ZQi@147.45.197.95:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1187'
+      - '🔒 | ss | @URL | 5211'
+      - '🔒 | ss | @URL | 28'
+      - '🔒 | ss | @URL | 8'
+      - '8ZQi@31.58.76.27:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1243'
+      - '8ZQi@46.249.44.245:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1259'
+      - '🔒 | ss | @URL | 5214'
+      - '8ZQi@46.243.3.200:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1258'
+      - '🔒 | ss | @URL | 5200'
+      - '8ZQi@31.220.4.189:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1228'
+      - '🔒 | ss | @URL | 5207'
+      - '🔒 | ss | @URL | 5218'
+      - '8ZQi@46.229.253.73:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1257'
+      - '8ZQi@77.239.98.191:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1277'
+      - '8ZQi@195.123.218.46:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1212'
+      - '🔒 | ss | @URL | 5208'
+      - '🔒 | ss | @URL | 5220'
+      - '🔒 | ss | @URL | 5194'
+      - '8ZQi@195.211.124.140:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1215'
+      - '🔒 | ss | @URL | 5153'
+      - '🔒 | ss | @URL | 5201'
+      - '🔒 | ss | @URL | 21'
+      - '🔒 | ss | @URL | 30'
+      - '🔒 | ss | @URL | 12'
+      - '🔒 | ss | @URL | 5159'
+      - '8ZQi@185.218.137.139:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1192'
+      - '🔒 | ss | @URL | 5210'
+      - '8ZQi@194.116.217.120:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1203'
+      - '🔒 | ss | @URL | 5192'
+      - '8ZQi@37.46.19.79:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1246'
+      - '8ZQi@31.56.222.119:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1230'
+      - '8ZQi@138.124.54.117:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1181'
+      - '8ZQi@89.107.10.22:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1289'
+      - '8ZQi@78.40.196.36:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1280'
+      - '🔒 | trojan | @URL | 5289'
+      - '🔒 | ss | @URL | 11'
+      - '🔒 | ss | @URL | 23'
+      - '8ZQi@193.23.216.14:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1202'
+      - '🔒 | ss | @URL | 5196'
+      - '8ZQi@113.30.190.244:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1179'
+      - '8ZQi@89.110.117.53:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1291'
+      - '🔒 | ss | @URL | 116'
+      - '8ZQi@77.239.98.192:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1278'
+      - '8ZQi@146.103.106.115:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1185'
+      - '8ZQi@146.19.168.188:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1186'
+      - '8ZQi@91.220.8.170:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1297'
+      - '8ZQi@185.233.80.60:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1193'
+      - '8ZQi@138.124.50.47:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1180'
+      - '8ZQi@94.103.80.218:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1300'
+      - '8ZQi@144.31.188.1:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1183'
+      - '🔒 | trojan | @URL | 5282'
+      - '8ZQi@77.110.106.55:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1271'
+      - '8ZQi@195.200.17.170:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1214'
+      - '🔒 | trojan | @URL | 5294'
+      - '🔒 | ss | @URL | 5170'
+      - '8ZQi@62.60.247.251:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1269'
+      - '8ZQi@89.110.110.9:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1290'
+      - '8ZQi@89.124.81.129:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1293'
+      - '8ZQi@194.28.226.46:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1208'
+      - '8ZQi@185.170.154.109:443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 552'
+      - '8ZQi@83.147.253.124:443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 554'
+      - '8ZQi@212.34.153.206:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1219'
+      - '8ZQi@77.238.230.228:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1274'
+      - '8ZQi@144.31.57.146:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1184'
+      - '8ZQi@88.218.78.20:2096?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1288'
+      - '8ZQi@77.246.110.179:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1279'
+      - '8ZQi@91.196.32.171:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1296'
+      - '8ZQi@45.84.88.204:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1254'
+      - '🔒 | ss | @URL | 99'
       - '🔒 | ss | @URL | 110'
-      - '🔒 | ss | @URL | 4987'
-      - '🔒 | ss | @URL | 5024'
-      - '🔒 | ss | @URL | 5064'
-      - '🔒 | ss | @URL | 103'
-      - '🔒 | ss | @URL | 5063'
-      - '🔒 | ss | @URL | 63'
-      - '🔒 | ss | @URL | 91'
+      - '8ZQi@31.56.227.49:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1232'
+      - '8ZQi@212.113.112.236:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1216'
+      - '8ZQi@31.57.62.145:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1239'
+      - '8ZQi@94.183.235.247:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1307'
+      - '8ZQi@188.241.241.32:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1201'
+      - '8ZQi@5.178.96.130:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1264'
+      - '8ZQi@5.178.96.74:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1265'
+      - '🔒 | ss | @URL | 120'
+      - '8ZQi@77.221.143.81:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1273'
+      - '8ZQi@95.156.204.82:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1308'
+      - '8ZQi@5.35.37.238:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1266'
+      - '8ZQi@94.183.191.189:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1304'
+      - '8ZQi@94.183.191.33:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1306'
+      - '🔒 | trojan | @URL | 5296'
+      - '8ZQi@212.34.152.202:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1218'
+      - '8ZQi@45.38.139.127:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1251'
+      - '8ZQi@82.118.22.141:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1283'
+      - '8ZQi@94.183.189.34:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1303'
+      - '8ZQi@31.57.92.205:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1240'
+      - '8ZQi@109.248.162.144:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1178'
+      - '8ZQi@45.38.139.214:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1252'
+      - '8ZQi@45.144.234.149:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1250'
+      - '🔒 | ss | @URL | 5171'
+      - '8ZQi@188.215.31.178:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1198'
+      - '8ZQi@217.19.4.246:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1223'
+      - '8ZQi@46.8.71.206:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1262'
+      - '8ZQi@94.183.189.34:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1302'
+      - '8ZQi@82.118.22.141:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1282'
+      - '8ZQi@188.215.31.98:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1200'
+      - '8ZQi@213.232.204.65:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1221'
+      - '8ZQi@167.179.76.8:443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 551'
+      - '8ZQi@91.108.189.152:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1294'
+      - '8ZQi@92.246.136.90:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1299'
+      - '8ZQi@94.183.191.228:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1305'
+      - '8ZQi@194.135.38.131:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1205'
+      - '8ZQi@5.144.179.49:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1263'
+      - '8ZQi@31.56.222.222:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1231'
+      - '8ZQi@188.215.31.110:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1197'
+      - '8ZQi@31.57.26.194:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1236'
+      - '8ZQi@46.102.156.144:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1256'
+      - '8ZQi@45.138.102.92:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1249'
+      - '🔒 | ss | @URL | 5161'
+      - '🔒 | ss | @URL | 122'
+      - '8ZQi@46.8.236.104:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1260'
+      - '8ZQi@152.53.153.158:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1189'
+      - '8ZQi@31.57.27.233:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1237'
+      - '8ZQi@188.215.31.36:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1199'
+      - '8ZQi@194.120.116.68:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1204'
+      - '8ZQi@62.60.150.140:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1268'
+      - '8ZQi@168.138.46.67:443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 553'
+      - '8ZQi@46.8.236.104:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1261'
+      - '🔒 | ss | @URL | 69'
+      - '8ZQi@91.184.243.61:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1295'
+      - '8ZQi@144.124.225.4:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1182'
+      - '🔒 | ss | @URL | 41'
+      - '8ZQi@77.238.252.140:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1276'
+      - '8ZQi@77.110.108.196:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1272'
+      - '8ZQi@31.56.196.56:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1229'
+      - '8ZQi@185.252.177.115:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1194'
+      - '8ZQi@195.135.252.148:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1213'
+      - '🔒 | ss | @URL | 74'
+      - '🔒 | ss | @URL | 5151'
+      - '🔒 | ss | @URL | 5156'
+      - '🔒 | ss | @URL | 93'
+      - '🔒 | ss | @URL | 186'
+      - '🔒 | ss | @URL | 5157'
+      - '🔒 | ss | @URL | 5148'
+      - '🔒 | ss | @URL | 5242'
+      - '🔒 | ss | @URL | 185'
+      - '🔒 | ss | @URL | 76'
+      - '8ZQi@62.60.250.48:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1270'
+      - '8ZQi@212.34.155.252:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1220'
+      - '8ZQi@31.57.105.242:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1234'
+      - '🔒 | ss | @URL | 26'
+      - '8ZQi@92.118.233.134:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1298'
+      - '🔒 | ss | @URL | 126'
+      - '🔒 | ss | @URL | 5266'
+      - '🔒 | ss | @URL | 101'
+      - '8ZQi@62.182.196.202:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1267'
+      - '🔒 | ss | @URL | 5187'
+      - '8ZQi@176.124.201.78:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1190'
+      - '🔒 | ss | @URL | 5163'
+      - '🔒 | ss | @URL | 111'
+      - '🔒 | ss | @URL | 42'
+      - '8ZQi@85.193.91.193:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1285'
+      - '🔒 | ss | @URL | 5'
+      - '8ZQi@85.193.90.131:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1284'
+      - '8ZQi@31.57.61.76:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1238'
+      - '8ZQi@217.60.39.42:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1225'
+      - '🔒 | ss | @URL | 5166'
+      - '🔒 | ss | @URL | 5158'
       - '🔒 | ss | @URL | 64'
-      - '🔒 | ss | @URL | 4986'
-      - '🔒 | ss | @URL | 1943'
-      - '🔒 | ss | @URL | 4989'
-      - '🔒 | ss | @URL | 170'
-      - '🔒 | ss | @URL | 61'
-      - '🔒 | ss | @URL | 60'
-      - '🔒 | ss | @URL | 59'
+      - '🔒 | ss | @URL | 106'
+      - '🔒 | ss | @URL | 5203'
+      - '🔒 | ss | @URL | 88'
+      - '🔒 | ss | @URL | 91'
+      - '🔒 | ss | @URL | 65'
+      - '🔒 | ss | @URL | 49'
+      - '🔒 | ss | @URL | 66'
+      - '🔒 | ss | @URL | 2120'
+      - '🔒 | ss | @URL | 5246'
   - name: URL-TEST
     type: url-test
     url: http://cp.cloudflare.com
     interval: 60
     tolerance: 50
     proxies:
-      - '🔒 | ss | @URL | 5012'
-      - '8ZQi@50.62.89.253:443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 511'
-      - '8ZQi@104.20.6.134:2096?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/tr&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 516'
-      - '🔒 | ss | @URL | 5084'
-      - '🔒 | ss | @URL | 31'
-      - '🔒 | ss | @URL | 108'
-      - '🔒 | ss | @URL | 51'
-      - '🔒 | ss | @URL | 3'
-      - '🔒 | ss | @URL | 104'
-      - '🔒 | ss | @URL | 98'
-      - '🔒 | ss | @URL | 0'
-      - '8ZQi@31.58.226.196:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 515'
-      - '🔒 | ss | @URL | 5'
-      - '🔒 | ss | @URL | 46'
       - '🔒 | ss | @URL | 43'
-      - '🔒 | ss | @URL | 5025'
-      - '🔒 | ss | @URL | 5010'
-      - '🔒 | ss | @URL | 5009'
-      - '🔒 | trojan | @URL | 5103'
-      - '🔒 | ss | @URL | 25'
-      - '🔒 | trojan | @URL | 5110'
-      - '🔒 | ss | @URL | 50'
-      - '🔒 | ss | @URL | 22'
-      - '🔒 | trojan | @URL | 5100'
-      - '🔒 | ss | @URL | 87'
-      - '🔒 | ss | @URL | 24'
-      - '🔒 | ss | @URL | 12'
-      - '🔒 | ss | @URL | 26'
-      - '🔒 | ss | @URL | 53'
-      - '🔒 | ss | @URL | 13'
-      - '🔒 | ss | @URL | 15'
-      - '🔒 | ss | @URL | 5052'
-      - '🔒 | ss | @URL | 5032'
-      - '🔒 | ss | @URL | 5041'
-      - '🔒 | ss | @URL | 6'
-      - '🔒 | ss | @URL | 28'
-      - '🔒 | ss | @URL | 17'
-      - '🔒 | ss | @URL | 5015'
-      - '🔒 | trojan | @URL | 5115'
-      - '🔒 | trojan | @URL | 5097'
-      - '🔒 | ss | @URL | 5027'
-      - '🔒 | ss | @URL | 83'
-      - '🔒 | ss | @URL | 30'
-      - '🔒 | ss | @URL | 16'
-      - '🔒 | ss | @URL | 19'
-      - '🔒 | ss | @URL | 5022'
-      - '🔒 | ss | @URL | 21'
-      - '🔒 | ss | @URL | 9'
-      - '8ZQi@194.76.173.184:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 512'
-      - '🔒 | ss | @URL | 7'
-      - '🔒 | ss | @URL | 20'
-      - '🔒 | ss | @URL | 5017'
-      - '🔒 | ss | @URL | 18'
-      - '🔒 | ss | @URL | 122'
-      - '🔒 | ss | @URL | 5021'
-      - '🔒 | ss | @URL | 5039'
-      - '🔒 | ss | @URL | 139'
-      - '🔒 | ss | @URL | 4976'
-      - '🔒 | ss | @URL | 69'
-      - '🔒 | ss | @URL | 76'
-      - '🔒 | ss | @URL | 5018'
-      - '🔒 | ss | @URL | 4980'
-      - '🔒 | ss | @URL | 4969'
-      - '🔒 | ss | @URL | 93'
-      - '🔒 | ss | @URL | 5016'
-      - '🔒 | ss | @URL | 5037'
-      - '🔒 | ss | @URL | 70'
-      - '🔒 | ss | @URL | 77'
-      - '🔒 | ss | @URL | 4974'
-      - '🔒 | ss | @URL | 115'
-      - '🔒 | ss | @URL | 95'
-      - '🔒 | trojan | @URL | 5117'
-      - '🔒 | ss | @URL | 101'
-      - '🔒 | ss | @URL | 4992'
-      - '🔒 | ss | @URL | 119'
-      - '🔒 | ss | @URL | 102'
-      - '🔒 | trojan | @URL | 5105'
-      - '🔒 | ss | @URL | 62'
+      - '🔒 | ss | @URL | 36'
       - '🔒 | ss | @URL | 38'
-      - '🔒 | ss | @URL | 65'
-      - '🔒 | ss | @URL | 5008'
-      - '🔒 | ss | @URL | 4984'
-      - '🔒 | ss | @URL | 107'
-      - '🔒 | ss | @URL | 129'
+      - '🔒 | ss | @URL | 2'
+      - '🔒 | ss | @URL | 81'
+      - '8ZQi@5.161.129.142:443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 556'
+      - '8ZQi@129.158.241.2:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 549'
+      - '🔒 | ss | @URL | 90'
+      - '8ZQi@38.132.122.241:443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 560'
+      - '🔒 | ss | @URL | 0'
+      - '🔒 | ss | @URL | 62'
+      - '8ZQi@156.225.72.253:443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/tr | TG@proxyshareCN | &Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 548'
+      - '🔒 | ss | @URL | 5263'
+      - '8ZQi@38.146.25.162:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 557'
+      - '🔒 | ss | @URL | 127'
+      - '🔒 | ss | @URL | 5190'
+      - '🔒 | ss | @URL | 48'
+      - '🔒 | ss | @URL | 45'
+      - '🔒 | ss | @URL | 44'
+      - '🔒 | ss | @URL | 5188'
+      - '8ZQi@43.245.227.108:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1248'
       - '🔒 | ss | @URL | 52'
-      - '🔒 | ss | @URL | 68'
-      - '🔒 | ss | @URL | 111'
-      - '🔒 | ss | @URL | 4979'
+      - '🔒 | trojan | @URL | 5276'
+      - '8ZQi@195.123.216.125:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1210'
+      - '🔒 | trojan | @URL | 5279'
+      - '8ZQi@45.81.225.153:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1253'
+      - '8ZQi@103.54.18.22:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 558'
+      - '🔒 | ss | @URL | 85'
+      - '🔒 | ss | @URL | 5195'
+      - '🔒 | ss | @URL | 5225'
+      - '🔒 | ss | @URL | 34'
+      - '8ZQi@188.130.207.119:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1195'
+      - '8ZQi@45.84.88.232:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1255'
+      - '8ZQi@82.115.7.135:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1281'
+      - '🔒 | ss | @URL | 5216'
+      - '🔒 | ss | @URL | 5152'
+      - '🔒 | ss | @URL | 5212'
+      - '8ZQi@31.58.76.27:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1242'
+      - '🔒 | ss | @URL | 5231'
+      - '🔒 | ss | @URL | 10'
+      - '🔒 | ss | @URL | 5215'
+      - '8ZQi@43.245.227.108:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1247'
+      - '8ZQi@87.251.77.196:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1287'
+      - '🔒 | ss | @URL | 25'
+      - '🔒 | ss | @URL | 20'
+      - '8ZQi@150.241.76.155:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1188'
+      - '8ZQi@31.59.103.186:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1244'
+      - '8ZQi@147.45.197.95:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1187'
+      - '🔒 | ss | @URL | 5211'
+      - '🔒 | ss | @URL | 28'
+      - '🔒 | ss | @URL | 8'
+      - '8ZQi@31.58.76.27:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1243'
+      - '8ZQi@46.249.44.245:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1259'
+      - '🔒 | ss | @URL | 5214'
+      - '8ZQi@46.243.3.200:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1258'
+      - '🔒 | ss | @URL | 5200'
+      - '8ZQi@31.220.4.189:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1228'
+      - '🔒 | ss | @URL | 5207'
+      - '🔒 | ss | @URL | 5218'
+      - '8ZQi@46.229.253.73:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1257'
+      - '8ZQi@77.239.98.191:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1277'
+      - '8ZQi@195.123.218.46:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1212'
+      - '🔒 | ss | @URL | 5208'
+      - '🔒 | ss | @URL | 5220'
+      - '🔒 | ss | @URL | 5194'
+      - '8ZQi@195.211.124.140:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1215'
+      - '🔒 | ss | @URL | 5153'
+      - '🔒 | ss | @URL | 5201'
+      - '🔒 | ss | @URL | 21'
+      - '🔒 | ss | @URL | 30'
+      - '🔒 | ss | @URL | 12'
+      - '🔒 | ss | @URL | 5159'
+      - '8ZQi@185.218.137.139:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1192'
+      - '🔒 | ss | @URL | 5210'
+      - '8ZQi@194.116.217.120:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1203'
+      - '🔒 | ss | @URL | 5192'
+      - '8ZQi@37.46.19.79:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1246'
+      - '8ZQi@31.56.222.119:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1230'
+      - '8ZQi@138.124.54.117:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1181'
+      - '8ZQi@89.107.10.22:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1289'
+      - '8ZQi@78.40.196.36:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1280'
+      - '🔒 | trojan | @URL | 5289'
+      - '🔒 | ss | @URL | 11'
+      - '🔒 | ss | @URL | 23'
+      - '8ZQi@193.23.216.14:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1202'
+      - '🔒 | ss | @URL | 5196'
+      - '8ZQi@113.30.190.244:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1179'
+      - '8ZQi@89.110.117.53:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1291'
+      - '🔒 | ss | @URL | 116'
+      - '8ZQi@77.239.98.192:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1278'
+      - '8ZQi@146.103.106.115:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1185'
+      - '8ZQi@146.19.168.188:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1186'
+      - '8ZQi@91.220.8.170:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1297'
+      - '8ZQi@185.233.80.60:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1193'
+      - '8ZQi@138.124.50.47:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1180'
+      - '8ZQi@94.103.80.218:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1300'
+      - '8ZQi@144.31.188.1:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1183'
+      - '🔒 | trojan | @URL | 5282'
+      - '8ZQi@77.110.106.55:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1271'
+      - '8ZQi@195.200.17.170:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1214'
+      - '🔒 | trojan | @URL | 5294'
+      - '🔒 | ss | @URL | 5170'
+      - '8ZQi@62.60.247.251:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1269'
+      - '8ZQi@89.110.110.9:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1290'
+      - '8ZQi@89.124.81.129:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1293'
+      - '8ZQi@194.28.226.46:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1208'
+      - '8ZQi@185.170.154.109:443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 552'
+      - '8ZQi@83.147.253.124:443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 554'
+      - '8ZQi@212.34.153.206:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1219'
+      - '8ZQi@77.238.230.228:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1274'
+      - '8ZQi@144.31.57.146:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1184'
+      - '8ZQi@88.218.78.20:2096?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1288'
+      - '8ZQi@77.246.110.179:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1279'
+      - '8ZQi@91.196.32.171:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1296'
+      - '8ZQi@45.84.88.204:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1254'
+      - '🔒 | ss | @URL | 99'
       - '🔒 | ss | @URL | 110'
-      - '🔒 | ss | @URL | 4987'
-      - '🔒 | ss | @URL | 5024'
-      - '🔒 | ss | @URL | 5064'
-      - '🔒 | ss | @URL | 103'
-      - '🔒 | ss | @URL | 5063'
-      - '🔒 | ss | @URL | 63'
-      - '🔒 | ss | @URL | 91'
+      - '8ZQi@31.56.227.49:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1232'
+      - '8ZQi@212.113.112.236:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1216'
+      - '8ZQi@31.57.62.145:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1239'
+      - '8ZQi@94.183.235.247:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1307'
+      - '8ZQi@188.241.241.32:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1201'
+      - '8ZQi@5.178.96.130:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1264'
+      - '8ZQi@5.178.96.74:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1265'
+      - '🔒 | ss | @URL | 120'
+      - '8ZQi@77.221.143.81:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1273'
+      - '8ZQi@95.156.204.82:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1308'
+      - '8ZQi@5.35.37.238:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1266'
+      - '8ZQi@94.183.191.189:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1304'
+      - '8ZQi@94.183.191.33:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1306'
+      - '🔒 | trojan | @URL | 5296'
+      - '8ZQi@212.34.152.202:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1218'
+      - '8ZQi@45.38.139.127:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1251'
+      - '8ZQi@82.118.22.141:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1283'
+      - '8ZQi@94.183.189.34:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1303'
+      - '8ZQi@31.57.92.205:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1240'
+      - '8ZQi@109.248.162.144:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1178'
+      - '8ZQi@45.38.139.214:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1252'
+      - '8ZQi@45.144.234.149:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1250'
+      - '🔒 | ss | @URL | 5171'
+      - '8ZQi@188.215.31.178:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1198'
+      - '8ZQi@217.19.4.246:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1223'
+      - '8ZQi@46.8.71.206:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1262'
+      - '8ZQi@94.183.189.34:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1302'
+      - '8ZQi@82.118.22.141:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1282'
+      - '8ZQi@188.215.31.98:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1200'
+      - '8ZQi@213.232.204.65:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1221'
+      - '8ZQi@167.179.76.8:443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 551'
+      - '8ZQi@91.108.189.152:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1294'
+      - '8ZQi@92.246.136.90:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1299'
+      - '8ZQi@94.183.191.228:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1305'
+      - '8ZQi@194.135.38.131:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1205'
+      - '8ZQi@5.144.179.49:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1263'
+      - '8ZQi@31.56.222.222:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1231'
+      - '8ZQi@188.215.31.110:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1197'
+      - '8ZQi@31.57.26.194:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1236'
+      - '8ZQi@46.102.156.144:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1256'
+      - '8ZQi@45.138.102.92:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1249'
+      - '🔒 | ss | @URL | 5161'
+      - '🔒 | ss | @URL | 122'
+      - '8ZQi@46.8.236.104:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1260'
+      - '8ZQi@152.53.153.158:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1189'
+      - '8ZQi@31.57.27.233:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1237'
+      - '8ZQi@188.215.31.36:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1199'
+      - '8ZQi@194.120.116.68:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1204'
+      - '8ZQi@62.60.150.140:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1268'
+      - '8ZQi@168.138.46.67:443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 553'
+      - '8ZQi@46.8.236.104:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1261'
+      - '🔒 | ss | @URL | 69'
+      - '8ZQi@91.184.243.61:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1295'
+      - '8ZQi@144.124.225.4:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1182'
+      - '🔒 | ss | @URL | 41'
+      - '8ZQi@77.238.252.140:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1276'
+      - '8ZQi@77.110.108.196:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1272'
+      - '8ZQi@31.56.196.56:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1229'
+      - '8ZQi@185.252.177.115:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1194'
+      - '8ZQi@195.135.252.148:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1213'
+      - '🔒 | ss | @URL | 74'
+      - '🔒 | ss | @URL | 5151'
+      - '🔒 | ss | @URL | 5156'
+      - '🔒 | ss | @URL | 93'
+      - '🔒 | ss | @URL | 186'
+      - '🔒 | ss | @URL | 5157'
+      - '🔒 | ss | @URL | 5148'
+      - '🔒 | ss | @URL | 5242'
+      - '🔒 | ss | @URL | 185'
+      - '🔒 | ss | @URL | 76'
+      - '8ZQi@62.60.250.48:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1270'
+      - '8ZQi@212.34.155.252:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1220'
+      - '8ZQi@31.57.105.242:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1234'
+      - '🔒 | ss | @URL | 26'
+      - '8ZQi@92.118.233.134:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1298'
+      - '🔒 | ss | @URL | 126'
+      - '🔒 | ss | @URL | 5266'
+      - '🔒 | ss | @URL | 101'
+      - '8ZQi@62.182.196.202:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1267'
+      - '🔒 | ss | @URL | 5187'
+      - '8ZQi@176.124.201.78:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1190'
+      - '🔒 | ss | @URL | 5163'
+      - '🔒 | ss | @URL | 111'
+      - '🔒 | ss | @URL | 42'
+      - '8ZQi@85.193.91.193:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1285'
+      - '🔒 | ss | @URL | 5'
+      - '8ZQi@85.193.90.131:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1284'
+      - '8ZQi@31.57.61.76:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1238'
+      - '8ZQi@217.60.39.42:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1225'
+      - '🔒 | ss | @URL | 5166'
+      - '🔒 | ss | @URL | 5158'
       - '🔒 | ss | @URL | 64'
-      - '🔒 | ss | @URL | 4986'
-      - '🔒 | ss | @URL | 1943'
-      - '🔒 | ss | @URL | 4989'
-      - '🔒 | ss | @URL | 170'
-      - '🔒 | ss | @URL | 61'
-      - '🔒 | ss | @URL | 60'
-      - '🔒 | ss | @URL | 59'
+      - '🔒 | ss | @URL | 106'
+      - '🔒 | ss | @URL | 5203'
+      - '🔒 | ss | @URL | 88'
+      - '🔒 | ss | @URL | 91'
+      - '🔒 | ss | @URL | 65'
+      - '🔒 | ss | @URL | 49'
+      - '🔒 | ss | @URL | 66'
+      - '🔒 | ss | @URL | 2120'
+      - '🔒 | ss | @URL | 5246'
   - name: FALLBACK
     type: fallback
     url: http://cp.cloudflare.com
     interval: 60
     proxies:
-      - '🔒 | ss | @URL | 5012'
-      - '8ZQi@50.62.89.253:443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 511'
-      - '8ZQi@104.20.6.134:2096?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/tr&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 516'
-      - '🔒 | ss | @URL | 5084'
-      - '🔒 | ss | @URL | 31'
-      - '🔒 | ss | @URL | 108'
-      - '🔒 | ss | @URL | 51'
-      - '🔒 | ss | @URL | 3'
-      - '🔒 | ss | @URL | 104'
-      - '🔒 | ss | @URL | 98'
-      - '🔒 | ss | @URL | 0'
-      - '8ZQi@31.58.226.196:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 515'
-      - '🔒 | ss | @URL | 5'
-      - '🔒 | ss | @URL | 46'
       - '🔒 | ss | @URL | 43'
-      - '🔒 | ss | @URL | 5025'
-      - '🔒 | ss | @URL | 5010'
-      - '🔒 | ss | @URL | 5009'
-      - '🔒 | trojan | @URL | 5103'
-      - '🔒 | ss | @URL | 25'
-      - '🔒 | trojan | @URL | 5110'
-      - '🔒 | ss | @URL | 50'
-      - '🔒 | ss | @URL | 22'
-      - '🔒 | trojan | @URL | 5100'
-      - '🔒 | ss | @URL | 87'
-      - '🔒 | ss | @URL | 24'
-      - '🔒 | ss | @URL | 12'
-      - '🔒 | ss | @URL | 26'
-      - '🔒 | ss | @URL | 53'
-      - '🔒 | ss | @URL | 13'
-      - '🔒 | ss | @URL | 15'
-      - '🔒 | ss | @URL | 5052'
-      - '🔒 | ss | @URL | 5032'
-      - '🔒 | ss | @URL | 5041'
-      - '🔒 | ss | @URL | 6'
-      - '🔒 | ss | @URL | 28'
-      - '🔒 | ss | @URL | 17'
-      - '🔒 | ss | @URL | 5015'
-      - '🔒 | trojan | @URL | 5115'
-      - '🔒 | trojan | @URL | 5097'
-      - '🔒 | ss | @URL | 5027'
-      - '🔒 | ss | @URL | 83'
-      - '🔒 | ss | @URL | 30'
-      - '🔒 | ss | @URL | 16'
-      - '🔒 | ss | @URL | 19'
-      - '🔒 | ss | @URL | 5022'
-      - '🔒 | ss | @URL | 21'
-      - '🔒 | ss | @URL | 9'
-      - '8ZQi@194.76.173.184:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 512'
-      - '🔒 | ss | @URL | 7'
-      - '🔒 | ss | @URL | 20'
-      - '🔒 | ss | @URL | 5017'
-      - '🔒 | ss | @URL | 18'
-      - '🔒 | ss | @URL | 122'
-      - '🔒 | ss | @URL | 5021'
-      - '🔒 | ss | @URL | 5039'
-      - '🔒 | ss | @URL | 139'
-      - '🔒 | ss | @URL | 4976'
-      - '🔒 | ss | @URL | 69'
-      - '🔒 | ss | @URL | 76'
-      - '🔒 | ss | @URL | 5018'
-      - '🔒 | ss | @URL | 4980'
-      - '🔒 | ss | @URL | 4969'
-      - '🔒 | ss | @URL | 93'
-      - '🔒 | ss | @URL | 5016'
-      - '🔒 | ss | @URL | 5037'
-      - '🔒 | ss | @URL | 70'
-      - '🔒 | ss | @URL | 77'
-      - '🔒 | ss | @URL | 4974'
-      - '🔒 | ss | @URL | 115'
-      - '🔒 | ss | @URL | 95'
-      - '🔒 | trojan | @URL | 5117'
-      - '🔒 | ss | @URL | 101'
-      - '🔒 | ss | @URL | 4992'
-      - '🔒 | ss | @URL | 119'
-      - '🔒 | ss | @URL | 102'
-      - '🔒 | trojan | @URL | 5105'
-      - '🔒 | ss | @URL | 62'
+      - '🔒 | ss | @URL | 36'
       - '🔒 | ss | @URL | 38'
-      - '🔒 | ss | @URL | 65'
-      - '🔒 | ss | @URL | 5008'
-      - '🔒 | ss | @URL | 4984'
-      - '🔒 | ss | @URL | 107'
-      - '🔒 | ss | @URL | 129'
+      - '🔒 | ss | @URL | 2'
+      - '🔒 | ss | @URL | 81'
+      - '8ZQi@5.161.129.142:443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 556'
+      - '8ZQi@129.158.241.2:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 549'
+      - '🔒 | ss | @URL | 90'
+      - '8ZQi@38.132.122.241:443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 560'
+      - '🔒 | ss | @URL | 0'
+      - '🔒 | ss | @URL | 62'
+      - '8ZQi@156.225.72.253:443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/tr | TG@proxyshareCN | &Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 548'
+      - '🔒 | ss | @URL | 5263'
+      - '8ZQi@38.146.25.162:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 557'
+      - '🔒 | ss | @URL | 127'
+      - '🔒 | ss | @URL | 5190'
+      - '🔒 | ss | @URL | 48'
+      - '🔒 | ss | @URL | 45'
+      - '🔒 | ss | @URL | 44'
+      - '🔒 | ss | @URL | 5188'
+      - '8ZQi@43.245.227.108:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1248'
       - '🔒 | ss | @URL | 52'
-      - '🔒 | ss | @URL | 68'
-      - '🔒 | ss | @URL | 111'
-      - '🔒 | ss | @URL | 4979'
+      - '🔒 | trojan | @URL | 5276'
+      - '8ZQi@195.123.216.125:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1210'
+      - '🔒 | trojan | @URL | 5279'
+      - '8ZQi@45.81.225.153:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1253'
+      - '8ZQi@103.54.18.22:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 558'
+      - '🔒 | ss | @URL | 85'
+      - '🔒 | ss | @URL | 5195'
+      - '🔒 | ss | @URL | 5225'
+      - '🔒 | ss | @URL | 34'
+      - '8ZQi@188.130.207.119:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1195'
+      - '8ZQi@45.84.88.232:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1255'
+      - '8ZQi@82.115.7.135:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1281'
+      - '🔒 | ss | @URL | 5216'
+      - '🔒 | ss | @URL | 5152'
+      - '🔒 | ss | @URL | 5212'
+      - '8ZQi@31.58.76.27:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1242'
+      - '🔒 | ss | @URL | 5231'
+      - '🔒 | ss | @URL | 10'
+      - '🔒 | ss | @URL | 5215'
+      - '8ZQi@43.245.227.108:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1247'
+      - '8ZQi@87.251.77.196:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1287'
+      - '🔒 | ss | @URL | 25'
+      - '🔒 | ss | @URL | 20'
+      - '8ZQi@150.241.76.155:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1188'
+      - '8ZQi@31.59.103.186:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1244'
+      - '8ZQi@147.45.197.95:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1187'
+      - '🔒 | ss | @URL | 5211'
+      - '🔒 | ss | @URL | 28'
+      - '🔒 | ss | @URL | 8'
+      - '8ZQi@31.58.76.27:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1243'
+      - '8ZQi@46.249.44.245:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1259'
+      - '🔒 | ss | @URL | 5214'
+      - '8ZQi@46.243.3.200:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1258'
+      - '🔒 | ss | @URL | 5200'
+      - '8ZQi@31.220.4.189:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1228'
+      - '🔒 | ss | @URL | 5207'
+      - '🔒 | ss | @URL | 5218'
+      - '8ZQi@46.229.253.73:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1257'
+      - '8ZQi@77.239.98.191:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1277'
+      - '8ZQi@195.123.218.46:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1212'
+      - '🔒 | ss | @URL | 5208'
+      - '🔒 | ss | @URL | 5220'
+      - '🔒 | ss | @URL | 5194'
+      - '8ZQi@195.211.124.140:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1215'
+      - '🔒 | ss | @URL | 5153'
+      - '🔒 | ss | @URL | 5201'
+      - '🔒 | ss | @URL | 21'
+      - '🔒 | ss | @URL | 30'
+      - '🔒 | ss | @URL | 12'
+      - '🔒 | ss | @URL | 5159'
+      - '8ZQi@185.218.137.139:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1192'
+      - '🔒 | ss | @URL | 5210'
+      - '8ZQi@194.116.217.120:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1203'
+      - '🔒 | ss | @URL | 5192'
+      - '8ZQi@37.46.19.79:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1246'
+      - '8ZQi@31.56.222.119:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1230'
+      - '8ZQi@138.124.54.117:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1181'
+      - '8ZQi@89.107.10.22:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1289'
+      - '8ZQi@78.40.196.36:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1280'
+      - '🔒 | trojan | @URL | 5289'
+      - '🔒 | ss | @URL | 11'
+      - '🔒 | ss | @URL | 23'
+      - '8ZQi@193.23.216.14:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1202'
+      - '🔒 | ss | @URL | 5196'
+      - '8ZQi@113.30.190.244:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1179'
+      - '8ZQi@89.110.117.53:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1291'
+      - '🔒 | ss | @URL | 116'
+      - '8ZQi@77.239.98.192:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1278'
+      - '8ZQi@146.103.106.115:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1185'
+      - '8ZQi@146.19.168.188:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1186'
+      - '8ZQi@91.220.8.170:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1297'
+      - '8ZQi@185.233.80.60:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1193'
+      - '8ZQi@138.124.50.47:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1180'
+      - '8ZQi@94.103.80.218:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1300'
+      - '8ZQi@144.31.188.1:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1183'
+      - '🔒 | trojan | @URL | 5282'
+      - '8ZQi@77.110.106.55:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1271'
+      - '8ZQi@195.200.17.170:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1214'
+      - '🔒 | trojan | @URL | 5294'
+      - '🔒 | ss | @URL | 5170'
+      - '8ZQi@62.60.247.251:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1269'
+      - '8ZQi@89.110.110.9:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1290'
+      - '8ZQi@89.124.81.129:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1293'
+      - '8ZQi@194.28.226.46:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1208'
+      - '8ZQi@185.170.154.109:443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 552'
+      - '8ZQi@83.147.253.124:443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 554'
+      - '8ZQi@212.34.153.206:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1219'
+      - '8ZQi@77.238.230.228:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1274'
+      - '8ZQi@144.31.57.146:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1184'
+      - '8ZQi@88.218.78.20:2096?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1288'
+      - '8ZQi@77.246.110.179:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1279'
+      - '8ZQi@91.196.32.171:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1296'
+      - '8ZQi@45.84.88.204:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1254'
+      - '🔒 | ss | @URL | 99'
       - '🔒 | ss | @URL | 110'
-      - '🔒 | ss | @URL | 4987'
-      - '🔒 | ss | @URL | 5024'
-      - '🔒 | ss | @URL | 5064'
-      - '🔒 | ss | @URL | 103'
-      - '🔒 | ss | @URL | 5063'
-      - '🔒 | ss | @URL | 63'
-      - '🔒 | ss | @URL | 91'
+      - '8ZQi@31.56.227.49:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1232'
+      - '8ZQi@212.113.112.236:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1216'
+      - '8ZQi@31.57.62.145:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1239'
+      - '8ZQi@94.183.235.247:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1307'
+      - '8ZQi@188.241.241.32:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1201'
+      - '8ZQi@5.178.96.130:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1264'
+      - '8ZQi@5.178.96.74:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1265'
+      - '🔒 | ss | @URL | 120'
+      - '8ZQi@77.221.143.81:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1273'
+      - '8ZQi@95.156.204.82:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1308'
+      - '8ZQi@5.35.37.238:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1266'
+      - '8ZQi@94.183.191.189:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1304'
+      - '8ZQi@94.183.191.33:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1306'
+      - '🔒 | trojan | @URL | 5296'
+      - '8ZQi@212.34.152.202:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1218'
+      - '8ZQi@45.38.139.127:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1251'
+      - '8ZQi@82.118.22.141:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1283'
+      - '8ZQi@94.183.189.34:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1303'
+      - '8ZQi@31.57.92.205:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1240'
+      - '8ZQi@109.248.162.144:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1178'
+      - '8ZQi@45.38.139.214:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1252'
+      - '8ZQi@45.144.234.149:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1250'
+      - '🔒 | ss | @URL | 5171'
+      - '8ZQi@188.215.31.178:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1198'
+      - '8ZQi@217.19.4.246:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1223'
+      - '8ZQi@46.8.71.206:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1262'
+      - '8ZQi@94.183.189.34:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1302'
+      - '8ZQi@82.118.22.141:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1282'
+      - '8ZQi@188.215.31.98:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1200'
+      - '8ZQi@213.232.204.65:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1221'
+      - '8ZQi@167.179.76.8:443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 551'
+      - '8ZQi@91.108.189.152:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1294'
+      - '8ZQi@92.246.136.90:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1299'
+      - '8ZQi@94.183.191.228:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1305'
+      - '8ZQi@194.135.38.131:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1205'
+      - '8ZQi@5.144.179.49:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1263'
+      - '8ZQi@31.56.222.222:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1231'
+      - '8ZQi@188.215.31.110:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1197'
+      - '8ZQi@31.57.26.194:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1236'
+      - '8ZQi@46.102.156.144:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1256'
+      - '8ZQi@45.138.102.92:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1249'
+      - '🔒 | ss | @URL | 5161'
+      - '🔒 | ss | @URL | 122'
+      - '8ZQi@46.8.236.104:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1260'
+      - '8ZQi@152.53.153.158:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1189'
+      - '8ZQi@31.57.27.233:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1237'
+      - '8ZQi@188.215.31.36:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1199'
+      - '8ZQi@194.120.116.68:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1204'
+      - '8ZQi@62.60.150.140:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1268'
+      - '8ZQi@168.138.46.67:443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 553'
+      - '8ZQi@46.8.236.104:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1261'
+      - '🔒 | ss | @URL | 69'
+      - '8ZQi@91.184.243.61:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1295'
+      - '8ZQi@144.124.225.4:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1182'
+      - '🔒 | ss | @URL | 41'
+      - '8ZQi@77.238.252.140:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1276'
+      - '8ZQi@77.110.108.196:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1272'
+      - '8ZQi@31.56.196.56:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1229'
+      - '8ZQi@185.252.177.115:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1194'
+      - '8ZQi@195.135.252.148:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1213'
+      - '🔒 | ss | @URL | 74'
+      - '🔒 | ss | @URL | 5151'
+      - '🔒 | ss | @URL | 5156'
+      - '🔒 | ss | @URL | 93'
+      - '🔒 | ss | @URL | 186'
+      - '🔒 | ss | @URL | 5157'
+      - '🔒 | ss | @URL | 5148'
+      - '🔒 | ss | @URL | 5242'
+      - '🔒 | ss | @URL | 185'
+      - '🔒 | ss | @URL | 76'
+      - '8ZQi@62.60.250.48:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1270'
+      - '8ZQi@212.34.155.252:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1220'
+      - '8ZQi@31.57.105.242:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1234'
+      - '🔒 | ss | @URL | 26'
+      - '8ZQi@92.118.233.134:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1298'
+      - '🔒 | ss | @URL | 126'
+      - '🔒 | ss | @URL | 5266'
+      - '🔒 | ss | @URL | 101'
+      - '8ZQi@62.182.196.202:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1267'
+      - '🔒 | ss | @URL | 5187'
+      - '8ZQi@176.124.201.78:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1190'
+      - '🔒 | ss | @URL | 5163'
+      - '🔒 | ss | @URL | 111'
+      - '🔒 | ss | @URL | 42'
+      - '8ZQi@85.193.91.193:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1285'
+      - '🔒 | ss | @URL | 5'
+      - '8ZQi@85.193.90.131:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1284'
+      - '8ZQi@31.57.61.76:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1238'
+      - '8ZQi@217.60.39.42:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳 @WangCai2&Host=Koma-YT.PAGeS.Dev#🔒 | trojan | @URL | 1225'
+      - '🔒 | ss | @URL | 5166'
+      - '🔒 | ss | @URL | 5158'
       - '🔒 | ss | @URL | 64'
-      - '🔒 | ss | @URL | 4986'
-      - '🔒 | ss | @URL | 1943'
-      - '🔒 | ss | @URL | 4989'
-      - '🔒 | ss | @URL | 170'
-      - '🔒 | ss | @URL | 61'
-      - '🔒 | ss | @URL | 60'
-      - '🔒 | ss | @URL | 59'
+      - '🔒 | ss | @URL | 106'
+      - '🔒 | ss | @URL | 5203'
+      - '🔒 | ss | @URL | 88'
+      - '🔒 | ss | @URL | 91'
+      - '🔒 | ss | @URL | 65'
+      - '🔒 | ss | @URL | 49'
+      - '🔒 | ss | @URL | 66'
+      - '🔒 | ss | @URL | 2120'
+      - '🔒 | ss | @URL | 5246'
 rules:
   - IP-CIDR,127.0.0.1/32,DIRECT,no-resolve
   - IP-CIDR,198.18.0.1/16,DIRECT,no-resolve

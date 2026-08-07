@@ -115,7 +115,8 @@
                 "ZHK|13|Type 0",
                 "ZHK|14|Type 0",
                 "ZHK|15|Type 0",
-                "ZHK|16|Type 0"
+                "ZHK|16|Type 0",
+                "ZHK|17|Type 0"
             ]
         },
         {
@@ -137,7 +138,8 @@
                 "ZHK|13|Type 0",
                 "ZHK|14|Type 0",
                 "ZHK|15|Type 0",
-                "ZHK|16|Type 0"
+                "ZHK|16|Type 0",
+                "ZHK|17|Type 0"
             ],
             "url": "http://cp.cloudflare.com",
             "interval": "3m",
@@ -161,6 +163,126 @@
         },
         {
             "type": "wireguard",
+            "private_key": "kLOhJ1m2E/0Nyb/vzMLANypgolMA2wJ+K0D/+Oa+Vkc=",
+            "server": "162.159.192.6",
+            "server_port": 2408,
+            "local_address": [
+                "172.16.0.2/32"
+            ],
+            "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
+            "reserved": [
+                98,
+                223,
+                119
+            ],
+            "mtu": 1280,
+            "tag": "ZHK|1|Type 0",
+            "fake_packets": "1-3",
+            "fake_packets_size": "1-10",
+            "fake_packets_delay": "1-10"
+        },
+        {
+            "type": "wireguard",
+            "private_key": "yMBpQXZp958B3UYpekMMwq/hjI/LLaqt8VI44lE87VY=",
+            "server": "162.159.192.7",
+            "server_port": 2408,
+            "local_address": [
+                "172.16.0.2/32"
+            ],
+            "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
+            "reserved": [
+                12,
+                129,
+                200
+            ],
+            "mtu": 1280,
+            "tag": "ZHK|2|Type 0",
+            "fake_packets": "1-3",
+            "fake_packets_size": "1-10",
+            "fake_packets_delay": "1-10"
+        },
+        {
+            "type": "wireguard",
+            "private_key": "sFnEfz65SwiSpFyjih0p5TTULwzCUVNdAMPJTza29nc=",
+            "server": "162.159.192.2",
+            "server_port": 4500,
+            "local_address": [
+                "172.16.0.2/32"
+            ],
+            "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
+            "reserved": [
+                67,
+                136,
+                133
+            ],
+            "mtu": 1280,
+            "tag": "ZHK|3|Type 0",
+            "fake_packets": "1-3",
+            "fake_packets_size": "1-10",
+            "fake_packets_delay": "1-10"
+        },
+        {
+            "type": "wireguard",
+            "private_key": "KPllTy3dk4oZI5cCQJVOYhNWwgOHY40CCF4bTHYhd3s=",
+            "server": "162.159.192.4",
+            "server_port": 500,
+            "local_address": [
+                "172.16.0.2/32"
+            ],
+            "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
+            "reserved": [
+                99,
+                13,
+                9
+            ],
+            "mtu": 1280,
+            "tag": "ZHK|4|Type 0",
+            "fake_packets": "1-3",
+            "fake_packets_size": "1-10",
+            "fake_packets_delay": "1-10"
+        },
+        {
+            "type": "wireguard",
+            "private_key": "sGEbDVrNR40Dl/QPKsqRuZAULI8h3RgFCbtSIobfaVI=",
+            "server": "162.159.192.1",
+            "server_port": 4500,
+            "local_address": [
+                "172.16.0.2/32"
+            ],
+            "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
+            "reserved": [
+                181,
+                195,
+                4
+            ],
+            "mtu": 1280,
+            "tag": "ZHK|5|Type 0",
+            "fake_packets": "1-3",
+            "fake_packets_size": "1-10",
+            "fake_packets_delay": "1-10"
+        },
+        {
+            "type": "wireguard",
+            "private_key": "oBpSrycuY80S4UTgLwS3mwYrjR4jdDISWfV4e/gOg0g=",
+            "server": "162.159.192.4",
+            "server_port": 2408,
+            "local_address": [
+                "172.16.0.2/32"
+            ],
+            "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
+            "reserved": [
+                173,
+                104,
+                70
+            ],
+            "mtu": 1280,
+            "tag": "ZHK|6|Type 0",
+            "fake_packets": "1-3",
+            "fake_packets_size": "1-10",
+            "fake_packets_delay": "1-10"
+        },
+        {
+            "type": "wireguard",
             "private_key": "cLlm5fEhrMavcGIPuSJgCwsAakUSUamjrLr5MNOgglQ=",
             "server": "162.159.192.3",
             "server_port": 2408,
@@ -174,7 +296,7 @@
                 131
             ],
             "mtu": 1280,
-            "tag": "ZHK|1|Type 0",
+            "tag": "ZHK|7|Type 0",
             "fake_packets": "1-3",
             "fake_packets_size": "1-10",
             "fake_packets_delay": "1-10"
@@ -194,7 +316,7 @@
                 253
             ],
             "mtu": 1280,
-            "tag": "ZHK|2|Type 0",
+            "tag": "ZHK|8|Type 0",
             "fake_packets": "1-3",
             "fake_packets_size": "1-10",
             "fake_packets_delay": "1-10"
@@ -214,7 +336,7 @@
                 21
             ],
             "mtu": 1280,
-            "tag": "ZHK|3|Type 0",
+            "tag": "ZHK|9|Type 0",
             "fake_packets": "1-3",
             "fake_packets_size": "1-10",
             "fake_packets_delay": "1-10"
@@ -234,7 +356,7 @@
                 24
             ],
             "mtu": 1280,
-            "tag": "ZHK|4|Type 0",
+            "tag": "ZHK|10|Type 0",
             "fake_packets": "1-3",
             "fake_packets_size": "1-10",
             "fake_packets_delay": "1-10"
@@ -254,7 +376,7 @@
                 166
             ],
             "mtu": 1280,
-            "tag": "ZHK|5|Type 0",
+            "tag": "ZHK|11|Type 0",
             "fake_packets": "1-3",
             "fake_packets_size": "1-10",
             "fake_packets_delay": "1-10"
@@ -274,7 +396,7 @@
                 64
             ],
             "mtu": 1280,
-            "tag": "ZHK|6|Type 0",
+            "tag": "ZHK|12|Type 0",
             "fake_packets": "1-3",
             "fake_packets_size": "1-10",
             "fake_packets_delay": "1-10"
@@ -294,7 +416,7 @@
                 183
             ],
             "mtu": 1280,
-            "tag": "ZHK|7|Type 0",
+            "tag": "ZHK|13|Type 0",
             "fake_packets": "1-3",
             "fake_packets_size": "1-10",
             "fake_packets_delay": "1-10"
@@ -314,7 +436,7 @@
                 58
             ],
             "mtu": 1280,
-            "tag": "ZHK|8|Type 0",
+            "tag": "ZHK|14|Type 0",
             "fake_packets": "1-3",
             "fake_packets_size": "1-10",
             "fake_packets_delay": "1-10"
@@ -334,7 +456,7 @@
                 125
             ],
             "mtu": 1280,
-            "tag": "ZHK|9|Type 0",
+            "tag": "ZHK|15|Type 0",
             "fake_packets": "1-3",
             "fake_packets_size": "1-10",
             "fake_packets_delay": "1-10"
@@ -354,7 +476,7 @@
                 16
             ],
             "mtu": 1280,
-            "tag": "ZHK|10|Type 0",
+            "tag": "ZHK|16|Type 0",
             "fake_packets": "1-3",
             "fake_packets_size": "1-10",
             "fake_packets_delay": "1-10"
@@ -374,107 +496,7 @@
                 202
             ],
             "mtu": 1280,
-            "tag": "ZHK|11|Type 0",
-            "fake_packets": "1-3",
-            "fake_packets_size": "1-10",
-            "fake_packets_delay": "1-10"
-        },
-        {
-            "type": "wireguard",
-            "private_key": "8JZSzSfSKkAmeCNRnaQE0oNcTky/kxxMDikR1oL2rUM=",
-            "server": "162.159.192.1",
-            "server_port": 500,
-            "local_address": [
-                "172.16.0.2/32"
-            ],
-            "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-            "reserved": [
-                135,
-                111,
-                169
-            ],
-            "mtu": 1280,
-            "tag": "ZHK|12|Type 0",
-            "fake_packets": "1-3",
-            "fake_packets_size": "1-10",
-            "fake_packets_delay": "1-10"
-        },
-        {
-            "type": "wireguard",
-            "private_key": "AF88wM9C4896FeSo269FM9HNx9OwbxgS95I53XIcVlA=",
-            "server": "162.159.192.5",
-            "server_port": 2408,
-            "local_address": [
-                "172.16.0.2/32"
-            ],
-            "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-            "reserved": [
-                101,
-                225,
-                223
-            ],
-            "mtu": 1280,
-            "tag": "ZHK|13|Type 0",
-            "fake_packets": "1-3",
-            "fake_packets_size": "1-10",
-            "fake_packets_delay": "1-10"
-        },
-        {
-            "type": "wireguard",
-            "private_key": "SBeuignQobzfyPeCde3LhQN4vd5EhPXPmu5ylCv2MlU=",
-            "server": "162.159.192.5",
-            "server_port": 500,
-            "local_address": [
-                "172.16.0.2/32"
-            ],
-            "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-            "reserved": [
-                136,
-                31,
-                19
-            ],
-            "mtu": 1280,
-            "tag": "ZHK|14|Type 0",
-            "fake_packets": "1-3",
-            "fake_packets_size": "1-10",
-            "fake_packets_delay": "1-10"
-        },
-        {
-            "type": "wireguard",
-            "private_key": "CEsE+cziLOHBP5LkR3AnCHqhLcV4GlDAjCMRShuf7H0=",
-            "server": "162.159.192.2",
-            "server_port": 4500,
-            "local_address": [
-                "172.16.0.2/32"
-            ],
-            "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-            "reserved": [
-                0,
-                231,
-                66
-            ],
-            "mtu": 1280,
-            "tag": "ZHK|15|Type 0",
-            "fake_packets": "1-3",
-            "fake_packets_size": "1-10",
-            "fake_packets_delay": "1-10"
-        },
-        {
-            "type": "wireguard",
-            "private_key": "MEwRltmMdsoj3qtZIsznMQqp2foCyc0YunYOy/7qW2I=",
-            "server": "162.159.192.3",
-            "server_port": 2408,
-            "local_address": [
-                "172.16.0.2/32"
-            ],
-            "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-            "reserved": [
-                179,
-                219,
-                21
-            ],
-            "mtu": 1280,
-            "tag": "ZHK|16|Type 0",
+            "tag": "ZHK|17|Type 0",
             "fake_packets": "1-3",
             "fake_packets_size": "1-10",
             "fake_packets_delay": "1-10"

@@ -11,91 +11,86 @@ enhanced-mode-by-rule = true
 
 [Proxy]
 DIRECT = direct
-🔒 | ss | @URL | 4084 = ss, ca225.vpnbook.com, 443, encrypt-method = chacha20-ietf-poly1305, password = ytw2awn
-🔒 | ss | @URL | 89 = ss, 142.4.216.225, 443, encrypt-method = chacha20-ietf-poly1305, password = ytw2awn
-🔒 | ss | @URL | 3 = ss, 108.181.118.10, 8388, encrypt-method = chacha20-ietf-poly1305, password = G5p6ww4o67HB
-🔒 | ss | @URL | 2 = ss, 108.181.0.177, 8388, encrypt-method = chacha20-ietf-poly1305, password = G5p6ww4o67HB
-🔒 | ss | @URL | 64 = ss, 108.181.126.122, 8388, encrypt-method = chacha20-ietf-poly1305, password = CJmTCCx7Ltud
-🔒 | trojan | @URL | 4142 = trojan, 44.251.158.80, 443, password = FH72359861, udp-delay = true, skip-cert-verify = false, sni = obliging-louse.rooster465.autos, ws = false
-🔒 | ss | @URL | 50 = ss, 108.181.58.239, 8388, encrypt-method = chacha20-ietf-poly1305, password = CJmTCCx7Ltud
-🔒 | ss | @URL | 24 = ss, 82.38.31.202, 8080, encrypt-method = chacha20-ietf-poly1305, password = k1dBOmOB4oqi7Ump37a1bQ
-🔒 | ss | @URL | 36 = ss, 193.29.139.168, 8080, encrypt-method = chacha20-ietf-poly1305, password = QCXDxuDlTTMD7jtgHUjIoj
-🔒 | ss | @URL | 35 = ss, 82.38.31.180, 8080, encrypt-method = chacha20-ietf-poly1305, password = k1dBOmOB4oqi7Ump37a1bQ
-🔒 | ss | @URL | 85 = ss, 82.38.31.10, 8080, encrypt-method = chacha20-ietf-poly1305, password = oZIoA69Q8yhcQV8ka3Pa3A
-🔒 | ss | @URL | 17 = ss, 82.38.31.174, 443, encrypt-method = chacha20-ietf-poly1305, password = oZIoA69Q8yhcQV8ka3Pa3A
-🔒 | ss | @URL | 18 = ss, 82.38.31.48, 8080, encrypt-method = chacha20-ietf-poly1305, password = oZIoA69Q8yhcQV8ka3Pa3A
-🔒 | ss | @URL | 22 = ss, 82.38.31.174, 8080, encrypt-method = chacha20-ietf-poly1305, password = oZIoA69Q8yhcQV8ka3Pa3A
-🔒 | ss | @URL | 29 = ss, 82.38.31.49, 8080, encrypt-method = chacha20-ietf-poly1305, password = oZIoA69Q8yhcQV8ka3Pa3A
-🔒 | ss | @URL | 34 = ss, 82.38.31.184, 8080, encrypt-method = chacha20-ietf-poly1305, password = k1dBOmOB4oqi7Ump37a1bQ
-🔒 | ss | @URL | 15 = ss, 82.38.31.34, 8080, encrypt-method = chacha20-ietf-poly1305, password = oZIoA69Q8yhcQV8ka3Pa3A
-🔒 | ss | @URL | 25 = ss, 82.38.31.189, 8080, encrypt-method = chacha20-ietf-poly1305, password = k1dBOmOB4oqi7Ump37a1bQ
-🔒 | ss | @URL | 33 = ss, 82.38.31.208, 8080, encrypt-method = chacha20-ietf-poly1305, password = k1dBOmOB4oqi7Ump37a1bQ
-🔒 | ss | @URL | 20 = ss, 82.38.31.212, 8080, encrypt-method = chacha20-ietf-poly1305, password = k1dBOmOB4oqi7Ump37a1bQ
-🔒 | ss | @URL | 21 = ss, 82.38.31.194, 8080, encrypt-method = chacha20-ietf-poly1305, password = k1dBOmOB4oqi7Ump37a1bQ
-🔒 | ss | @SOSkeyNET | 8415 = ss, 193.29.139.144, 8080, encrypt-method = chacha20-ietf-poly1305, password = oZIoA69Q8yhcQV8ka3Pa3A
-🔒 | ss | @URL | 38 = ss, 82.38.31.35, 443, encrypt-method = chacha20-ietf-poly1305, password = oZIoA69Q8yhcQV8ka3Pa3A
-🔒 | ss | @URL | 14 = ss, 82.38.31.36, 443, encrypt-method = chacha20-ietf-poly1305, password = oZIoA69Q8yhcQV8ka3Pa3A
-🔒 | ss | @URL | 84 = ss, 82.38.31.2, 8080, encrypt-method = chacha20-ietf-poly1305, password = oZIoA69Q8yhcQV8ka3Pa3A
-🔒 | ss | @URL | 13 = ss, 82.38.31.217, 8080, encrypt-method = chacha20-ietf-poly1305, password = k1dBOmOB4oqi7Ump37a1bQ
-🔒 | ss | @URL | 30 = ss, 82.38.31.205, 8080, encrypt-method = chacha20-ietf-poly1305, password = k1dBOmOB4oqi7Ump37a1bQ
-🔒 | ss | @URL | 82 = ss, 82.38.31.218, 8080, encrypt-method = chacha20-ietf-poly1305, password = k1dBOmOB4oqi7Ump37a1bQ
-🔒 | ss | @URL | 94 = ss, 82.38.31.219, 8080, encrypt-method = chacha20-ietf-poly1305, password = k1dBOmOB4oqi7Ump37a1bQ
-🔒 | ss | @URL | 37 = ss, 82.38.31.16, 8080, encrypt-method = chacha20-ietf-poly1305, password = oZIoA69Q8yhcQV8ka3Pa3A
-🔒 | ss | @URL | 78 = ss, 213.109.147.242, 62685, encrypt-method = chacha20-ietf-poly1305, password = VpKABcOpNNA0l5G2AVOmw8
-🔒 | ss | @URL | 27 = ss, 82.38.31.155, 8080, encrypt-method = chacha20-ietf-poly1305, password = oZIoA69Q8yhcQV8ka3Pa3A
-🔒 | ss | @URL | 11 = ss, 82.38.31.179, 8080, encrypt-method = chacha20-ietf-poly1305, password = k1dBOmOB4oqi7Ump37a1bQ
-🔒 | ss | @URL | 26 = ss, 82.38.31.35, 8080, encrypt-method = chacha20-ietf-poly1305, password = oZIoA69Q8yhcQV8ka3Pa3A
-🔒 | ss | @URL | 12 = ss, 193.29.139.147, 8080, encrypt-method = chacha20-ietf-poly1305, password = k1dBOmOB4oqi7Ump37a1bQ
-🔒 | ss | @URL | 28 = ss, 82.38.31.214, 8080, encrypt-method = chacha20-ietf-poly1305, password = k1dBOmOB4oqi7Ump37a1bQ
-🔒 | ss | @URL | 40 = ss, 82.38.31.46, 8080, encrypt-method = chacha20-ietf-poly1305, password = oZIoA69Q8yhcQV8ka3Pa3A
-🔒 | ss | @URL | 41 = ss, 82.38.31.15, 443, encrypt-method = chacha20-ietf-poly1305, password = oZIoA69Q8yhcQV8ka3Pa3A
-🔒 | ss | @URL | 4088 = ss, pl134.vpnbook.com, 443, encrypt-method = chacha20-ietf-poly1305, password = ytw2awn
-🔒 | ss | @URL | 32 = ss, 82.38.31.149, 8080, encrypt-method = chacha20-ietf-poly1305, password = oZIoA69Q8yhcQV8ka3Pa3A
-🔒 | ss | @URL | 4085 = ss, 54.36.174.134, 443, encrypt-method = chacha20-ietf-poly1305, password = ytw2awn
-🔒 | ss | @URL | 31 = ss, 82.38.31.57, 443, encrypt-method = chacha20-ietf-poly1305, password = oZIoA69Q8yhcQV8ka3Pa3A
-🔒 | trojan | @URL | 754 = trojan, 104.16.174.14, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.ignitelimit.com, ws = false
-🔒 | ss | @URL | 4089 = ss, pl140.vpnbook.com, 443, encrypt-method = chacha20-ietf-poly1305, password = ytw2awn
-🔒 | trojan | @URL | 4200 = trojan, 104.16.174.44, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.ignitelimit.com, ws = false
-🔒 | ss | @URL | 52 = ss, 94.156.250.148, 7001, encrypt-method = aes-256-gcm, password = RexnBgU7EV5ADxG
-🔒 | ss | @URL | 4087 = ss, 54.36.174.140, 443, encrypt-method = chacha20-ietf-poly1305, password = ytw2awn
-🔒 | ss | @URL | 49 = ss, 209.46.102.22, 8388, encrypt-method = chacha20-ietf-poly1305, password = 1hhrqrokj3ag
-🔒 | trojan | @URL | 759 = trojan, 104.16.174.72, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.ignitelimit.com, ws = false
-🔒 | trojan | @URL | 765 = trojan, 104.18.12.149, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.ignitelimit.com, ws = false
-🔒 | trojan | @URL | 4193 = trojan, 104.16.174.12, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.ignitelimit.com, ws = false
-🔒 | trojan | @URL | 752 = trojan, 104.16.174.109, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.ignitelimit.com, ws = false
-🔒 | ss | @URL | 73 = ss, r3mrcg00129437x.cybervena.com, 50099, encrypt-method = chacha20-ietf-poly1305, password = 7e731ec3-f8e1-43f6-92cf-3978d14705c4
-🔒 | ss | @URL | 76 = ss, r3mrcg001286ek2.cybervena.com, 50099, encrypt-method = chacha20-ietf-poly1305, password = 7e731ec3-f8e1-43f6-92cf-3978d14705c4
-🔒 | ss | @URL | 142 = ss, 193.29.139.223, 8080, encrypt-method = chacha20-ietf-poly1305, password = k1dBOmOB4oqi7Ump37a1bQ
-🔒 | trojan | @URL | 714 = trojan, 216.24.57.7, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.ignitelimit.com, ws = false
-🔒 | trojan | @URL | 749 = trojan, 104.18.152.133, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.ignitelimit.com, ws = false
-🔒 | trojan | @URL | 729 = trojan, 188.114.97.7, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.ignitelimit.com, ws = false
-🔒 | trojan | @URL | 750 = trojan, 104.18.152.229, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.ignitelimit.com, ws = false
-🔒 | trojan | @URL | 751 = trojan, 104.18.152.204, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.ignitelimit.com, ws = false
-🔒 | trojan | @URL | 748 = trojan, 172.67.221.242, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.ignitelimit.com, ws = false
-🔒 | trojan | @URL | 728 = trojan, 104.16.174.12, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.ignitelimit.com, ws = false
-🔒 | trojan | @URL | 722 = trojan, 104.18.152.113, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.ignitelimit.com, ws = false
-🔒 | trojan | @URL | 746 = trojan, 104.16.174.22, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.ignitelimit.com, ws = false
-🔒 | trojan | @URL | 721 = trojan, 104.17.111.3, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.ignitelimit.com, ws = false
-🔒 | trojan | @URL | 744 = trojan, 104.16.174.46, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.ignitelimit.com, ws = false
-🔒 | trojan | @URL | 726 = trojan, join-telegram-channel.tirexnet.kdns.fr, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.ignitelimit.com, ws = false
-🔒 | trojan | @URL | 713 = trojan, 130.250.137.171, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.ignitelimit.com, ws = false
-🔒 | trojan | @URL | 661 = trojan, 104.18.152.187, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.ignitelimit.com, ws = false
-🔒 | trojan | @URL | 4196 = trojan, 104.16.174.36, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.ignitelimit.com, ws = false
-🔒 | ss | @URL | 19 = ss, 193.29.139.235, 8080, encrypt-method = chacha20-ietf-poly1305, password = oZIoA69Q8yhcQV8ka3Pa3A
-🔒 | trojan | @URL | 666 = trojan, 104.16.174.44, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.ignitelimit.com, ws = false
-🔒 | trojan | @URL | 745 = trojan, 198.41.223.96, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.ignitelimit.com, ws = false
-🔒 | trojan | @URL | 753 = trojan, 104.16.174.121, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.ignitelimit.com, ws = false
-🔒 | ss | @URL | 68 = ss, 102.133.165.160, 16233, encrypt-method = chacha20-ietf-poly1305, password = Xsy8Ox4yOV3xLlpxtjzs3X
-🔒 | ss | @URL | 69 = ss, 102.37.156.224, 443, encrypt-method = chacha20-ietf-poly1305, password = aduB9HGxQHjA2SBMRjkHX6
-🔒 | trojan | @URL | 730 = trojan, 104.16.174.34, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.ignitelimit.com, ws = false
-🔒 | trojan | @URL | 731 = trojan, 104.18.152.208, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.ignitelimit.com, ws = false
-🔒 | trojan | @URL | 724 = trojan, 104.21.46.3, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.ignitelimit.com, ws = false
-🔒 | trojan | @URL | 747 = trojan, 104.18.152.225, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.ignitelimit.com, ws = false
-🔒 | ss | @URL | 4080 = ss, 92.112.126.90, 443, encrypt-method = chacha20-ietf-poly1305, password = 9tqhMdIrTkgQ46PvhyAtMH
+🔒 | ss | @URL | 34 = ss, 108.181.0.177, 8388, encrypt-method = chacha20-ietf-poly1305, password = G5p6ww4o67HB
+🔒 | ss | @URL | 38 = ss, 108.181.118.10, 8388, encrypt-method = chacha20-ietf-poly1305, password = G5p6ww4o67HB
+🔒 | trojan | @URL | 4165 = trojan, 44.251.158.80, 443, password = FH72359861, udp-delay = true, skip-cert-verify = false, sni = obliging-louse.rooster465.autos, ws = false
+🔒 | ss | @URL | 52 = ss, 108.181.126.122, 8388, encrypt-method = chacha20-ietf-poly1305, password = CJmTCCx7Ltud
+🔒 | ss | @URL | 48 = ss, 108.181.58.239, 8388, encrypt-method = chacha20-ietf-poly1305, password = CJmTCCx7Ltud
+🔒 | ss | @URL | 25 = ss, 82.38.31.48, 8080, encrypt-method = chacha20-ietf-poly1305, password = oZIoA69Q8yhcQV8ka3Pa3A
+🔒 | ss | @URL | 4126 = ss, 193.29.139.230, 443, encrypt-method = chacha20-ietf-poly1305, password = oZIoA69Q8yhcQV8ka3Pa3A
+🔒 | ss | @URL | 71 = ss, 82.38.31.2, 8080, encrypt-method = chacha20-ietf-poly1305, password = oZIoA69Q8yhcQV8ka3Pa3A
+🔒 | ss | @URL | 5 = ss, 82.38.31.46, 8080, encrypt-method = chacha20-ietf-poly1305, password = oZIoA69Q8yhcQV8ka3Pa3A
+🔒 | ss | @URL | 4115 = ss, 193.29.139.168, 8080, encrypt-method = chacha20-ietf-poly1305, password = QCXDxuDlTTMD7jtgHUjIoj
+🔒 | ss | @URL | 33 = ss, 82.38.31.216, 8080, encrypt-method = chacha20-ietf-poly1305, password = k1dBOmOB4oqi7Ump37a1bQ
+🔒 | ss | @URL | 77 = ss, 82.38.31.219, 8080, encrypt-method = chacha20-ietf-poly1305, password = k1dBOmOB4oqi7Ump37a1bQ
+🔒 | ss | @URL | 76 = ss, 82.38.31.218, 8080, encrypt-method = chacha20-ietf-poly1305, password = k1dBOmOB4oqi7Ump37a1bQ
+🔒 | ss | @URL | 20 = ss, 82.38.31.194, 8080, encrypt-method = chacha20-ietf-poly1305, password = k1dBOmOB4oqi7Ump37a1bQ
+🔒 | ss | @URL | 7 = ss, 82.38.31.189, 8080, encrypt-method = chacha20-ietf-poly1305, password = k1dBOmOB4oqi7Ump37a1bQ
+🔒 | ss | @URL | 11 = ss, 193.29.139.223, 8080, encrypt-method = chacha20-ietf-poly1305, password = k1dBOmOB4oqi7Ump37a1bQ
+🔒 | ss | @URL | 4128 = ss, 82.38.31.162, 443, encrypt-method = chacha20-ietf-poly1305, password = oZIoA69Q8yhcQV8ka3Pa3A
+🔒 | ss | @URL | 9 = ss, 82.38.31.208, 8080, encrypt-method = chacha20-ietf-poly1305, password = k1dBOmOB4oqi7Ump37a1bQ
+🔒 | ss | @URL | 27 = ss, 82.38.31.179, 8080, encrypt-method = chacha20-ietf-poly1305, password = k1dBOmOB4oqi7Ump37a1bQ
+🔒 | ss | @URL | 41 = ss, 82.38.31.184, 8080, encrypt-method = chacha20-ietf-poly1305, password = k1dBOmOB4oqi7Ump37a1bQ
+🔒 | ss | @URL | 28 = ss, 82.38.31.212, 8080, encrypt-method = chacha20-ietf-poly1305, password = k1dBOmOB4oqi7Ump37a1bQ
+🔒 | ss | @SOSkeyNET | 8361 = ss, 82.38.31.174, 8080, encrypt-method = chacha20-ietf-poly1305, password = oZIoA69Q8yhcQV8ka3Pa3A
+🔒 | ss | @URL | 15 = ss, 82.38.31.180, 8080, encrypt-method = chacha20-ietf-poly1305, password = k1dBOmOB4oqi7Ump37a1bQ
+🔒 | ss | @free4allVPN | 8354 = ss, 82.38.31.205, 8080, encrypt-method = chacha20-ietf-poly1305, password = k1dBOmOB4oqi7Ump37a1bQ
+🔒 | ss | @URL | 47 = ss, 82.38.31.199, 8080, encrypt-method = chacha20-ietf-poly1305, password = k1dBOmOB4oqi7Ump37a1bQ
+🔒 | ss | @URL | 70 = ss, 82.38.31.10, 8080, encrypt-method = chacha20-ietf-poly1305, password = oZIoA69Q8yhcQV8ka3Pa3A
+🔒 | ss | @URL | 19 = ss, 82.38.31.34, 8080, encrypt-method = chacha20-ietf-poly1305, password = oZIoA69Q8yhcQV8ka3Pa3A
+🔒 | ss | @URL | 8 = ss, 82.38.31.217, 8080, encrypt-method = chacha20-ietf-poly1305, password = k1dBOmOB4oqi7Ump37a1bQ
+🔒 | ss | @URL | 4121 = ss, 82.38.31.198, 8080, encrypt-method = chacha20-ietf-poly1305, password = k1dBOmOB4oqi7Ump37a1bQ
+🔒 | ss | @URL | 10 = ss, 82.38.31.149, 8080, encrypt-method = chacha20-ietf-poly1305, password = oZIoA69Q8yhcQV8ka3Pa3A
+🔒 | ss | @URL | 31 = ss, 82.38.31.49, 8080, encrypt-method = chacha20-ietf-poly1305, password = oZIoA69Q8yhcQV8ka3Pa3A
+🔒 | ss | @URL | 30 = ss, 82.38.31.174, 443, encrypt-method = chacha20-ietf-poly1305, password = oZIoA69Q8yhcQV8ka3Pa3A
+🔒 | ss | @URL | 26 = ss, 193.29.139.147, 8080, encrypt-method = chacha20-ietf-poly1305, password = k1dBOmOB4oqi7Ump37a1bQ
+🔒 | ss | @URL | 29 = ss, 82.38.31.214, 8080, encrypt-method = chacha20-ietf-poly1305, password = k1dBOmOB4oqi7Ump37a1bQ
+🔒 | ss | @URL | 6 = ss, 82.38.31.187, 8080, encrypt-method = chacha20-ietf-poly1305, password = k1dBOmOB4oqi7Ump37a1bQ
+🔒 | ss | @URL | 80 = ss, 213.109.147.242, 62685, encrypt-method = chacha20-ietf-poly1305, password = VpKABcOpNNA0l5G2AVOmw8
+🔒 | ss | @URL | 24 = ss, 82.38.31.16, 8080, encrypt-method = chacha20-ietf-poly1305, password = oZIoA69Q8yhcQV8ka3Pa3A
+🔒 | ss | @URL | 117 = ss, 82.38.31.15, 443, encrypt-method = chacha20-ietf-poly1305, password = oZIoA69Q8yhcQV8ka3Pa3A
+🔒 | ss | @URL | 69 = ss, r3mrcg001287h3p.cybervena.com, 50099, encrypt-method = chacha20-ietf-poly1305, password = 7e731ec3-f8e1-43f6-92cf-3978d14705c4
+🔒 | ss | @URL | 18 = ss, 82.38.31.155, 8080, encrypt-method = chacha20-ietf-poly1305, password = oZIoA69Q8yhcQV8ka3Pa3A
+🔒 | ss | @URL | 57 = ss, r3mrcg001286ek2.cybervena.com, 50099, encrypt-method = chacha20-ietf-poly1305, password = 7e731ec3-f8e1-43f6-92cf-3978d14705c4
+🔒 | ss | @URL | 4099 = ss, pl134.vpnbook.com, 443, encrypt-method = chacha20-ietf-poly1305, password = ytw2awn
+🔒 | ss | @URL | 4094 = ss, 54.36.174.134, 443, encrypt-method = chacha20-ietf-poly1305, password = ytw2awn
+🔒 | ss | @URL | 40 = ss, 209.46.102.22, 8388, encrypt-method = chacha20-ietf-poly1305, password = 1hhrqrokj3ag
+🔒 | ss | @URL | 4100 = ss, pl140.vpnbook.com, 443, encrypt-method = chacha20-ietf-poly1305, password = ytw2awn
+🔒 | ss | @URL | 4098 = ss, 54.36.174.140, 443, encrypt-method = chacha20-ietf-poly1305, password = ytw2awn
+🔒 | trojan | @URL | 788 = trojan, 104.17.111.4, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.ignitelimit.com, ws = false
+🔒 | ss | @URL | 4108 = ss, 64.188.77.159, 8390, encrypt-method = chacha20-ietf-poly1305, password = EyGy11BMfeP-6UHjsgajWw
+🔒 | ss | @URL | 4111 = ss, 31.76.82.131, 34260, encrypt-method = chacha20-ietf-poly1305, password = cTAObwg4OWWXkZJQs0ZdgC
+🔒 | ss | @URL | 4119 = ss, au1.levikogjgfdd.ir, 27116, encrypt-method = chacha20-ietf-poly1305, password = bIOoi5TuImG2KccxV7-jcA7Cez+vun-c_E
+🔒 | trojan | @URL | 764 = trojan, 104.18.152.225, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.ignitelimit.com, ws = false
+🔒 | trojan | @URL | 793 = trojan, 104.18.23.63, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.ignitelimit.com, ws = false
+🔒 | trojan | @URL | 759 = trojan, 104.18.152.204, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.ignitelimit.com, ws = false
+🔒 | trojan | @URL | 767 = trojan, 104.18.152.229, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.ignitelimit.com, ws = false
+🔒 | trojan | @URL | 771 = trojan, 104.18.152.208, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.ignitelimit.com, ws = false
+🔒 | trojan | @URL | 766 = trojan, 104.18.152.133, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.ignitelimit.com, ws = false
+🔒 | trojan | @URL | 769 = trojan, 104.18.152.73, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.ignitelimit.com, ws = false
+🔒 | trojan | @URL | 770 = trojan, 104.18.152.149, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.ignitelimit.com, ws = false
+🔒 | trojan | @URL | 773 = trojan, 104.16.7.70, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.ignitelimit.com, ws = false
+🔒 | trojan | @URL | 4218 = trojan, 104.16.174.36, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.ignitelimit.com, ws = false
+🔒 | ss | @URL | 14 = ss, 82.38.31.202, 8080, encrypt-method = chacha20-ietf-poly1305, password = k1dBOmOB4oqi7Ump37a1bQ
+🔒 | trojan | @URL | 784 = trojan, 104.17.177.143, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.ignitelimit.com, ws = false
+🔒 | trojan | @URL | 768 = trojan, 104.16.174.72, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.ignitelimit.com, ws = false
+🔒 | ss | @URL | 4086 = ss, 38.60.255.97, 11201, encrypt-method = chacha20-ietf-poly1305, password = 366aa1ba14af3f1a
+🔒 | trojan | @URL | 783 = trojan, 104.17.111.3, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.ignitelimit.com, ws = false
+🔒 | trojan | @URL | 777 = trojan, 104.16.174.148, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.ignitelimit.com, ws = false
+🔒 | trojan | @URL | 781 = trojan, 104.16.174.6, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.ignitelimit.com, ws = false
+🔒 | trojan | @URL | 776 = trojan, 104.16.174.12, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.ignitelimit.com, ws = false
+🔒 | trojan | @URL | 772 = trojan, 104.16.174.34, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.ignitelimit.com, ws = false
+🔒 | trojan | @URL | 4222 = trojan, 104.16.174.44, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.ignitelimit.com, ws = false
+🔒 | ss | @URL | 59 = ss, 51.222.155.113, 5601, encrypt-method = aes-256-gcm, password = Y6R9pAtvxxzmGC
+🔒 | trojan | @URL | 778 = trojan, 104.16.174.14, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.ignitelimit.com, ws = false
+🔒 | trojan | @URL | 765 = trojan, 104.21.46.3, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.ignitelimit.com, ws = false
+🔒 | trojan | @URL | 4219 = trojan, 104.16.174.12, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.ignitelimit.com, ws = false
+🔒 | ss | @URL | 50 = ss, 102.133.165.160, 16233, encrypt-method = chacha20-ietf-poly1305, password = Xsy8Ox4yOV3xLlpxtjzs3X
+🔒 | ss | @URL | 51 = ss, 102.37.156.224, 443, encrypt-method = chacha20-ietf-poly1305, password = aduB9HGxQHjA2SBMRjkHX6
 [Proxy Group]
-MANUAL = select,URL-TEST,FALLBACK,🔒 | ss | @URL | 4084,🔒 | ss | @URL | 89,🔒 | ss | @URL | 3,🔒 | ss | @URL | 2,🔒 | ss | @URL | 64,🔒 | trojan | @URL | 4142,🔒 | ss | @URL | 50,🔒 | ss | @URL | 24,🔒 | ss | @URL | 36,🔒 | ss | @URL | 35,🔒 | ss | @URL | 85,🔒 | ss | @URL | 17,🔒 | ss | @URL | 18,🔒 | ss | @URL | 22,🔒 | ss | @URL | 29,🔒 | ss | @URL | 34,🔒 | ss | @URL | 15,🔒 | ss | @URL | 25,🔒 | ss | @URL | 33,🔒 | ss | @URL | 20,🔒 | ss | @URL | 21,🔒 | ss | @SOSkeyNET | 8415,🔒 | ss | @URL | 38,🔒 | ss | @URL | 14,🔒 | ss | @URL | 84,🔒 | ss | @URL | 13,🔒 | ss | @URL | 30,🔒 | ss | @URL | 82,🔒 | ss | @URL | 94,🔒 | ss | @URL | 37,🔒 | ss | @URL | 78,🔒 | ss | @URL | 27,🔒 | ss | @URL | 11,🔒 | ss | @URL | 26,🔒 | ss | @URL | 12,🔒 | ss | @URL | 28,🔒 | ss | @URL | 40,🔒 | ss | @URL | 41,🔒 | ss | @URL | 4088,🔒 | ss | @URL | 32,🔒 | ss | @URL | 4085,🔒 | ss | @URL | 31,🔒 | trojan | @URL | 754,🔒 | ss | @URL | 4089,🔒 | trojan | @URL | 4200,🔒 | ss | @URL | 52,🔒 | ss | @URL | 4087,🔒 | ss | @URL | 49,🔒 | trojan | @URL | 759,🔒 | trojan | @URL | 765,🔒 | trojan | @URL | 4193,🔒 | trojan | @URL | 752,🔒 | ss | @URL | 73,🔒 | ss | @URL | 76,🔒 | ss | @URL | 142,🔒 | trojan | @URL | 714,🔒 | trojan | @URL | 749,🔒 | trojan | @URL | 729,🔒 | trojan | @URL | 750,🔒 | trojan | @URL | 751,🔒 | trojan | @URL | 748,🔒 | trojan | @URL | 728,🔒 | trojan | @URL | 722,🔒 | trojan | @URL | 746,🔒 | trojan | @URL | 721,🔒 | trojan | @URL | 744,🔒 | trojan | @URL | 726,🔒 | trojan | @URL | 713,🔒 | trojan | @URL | 661,🔒 | trojan | @URL | 4196,🔒 | ss | @URL | 19,🔒 | trojan | @URL | 666,🔒 | trojan | @URL | 745,🔒 | trojan | @URL | 753,🔒 | ss | @URL | 68,🔒 | ss | @URL | 69,🔒 | trojan | @URL | 730,🔒 | trojan | @URL | 731,🔒 | trojan | @URL | 724,🔒 | trojan | @URL | 747,🔒 | ss | @URL | 4080
-URL-TEST = url-test,🔒 | ss | @URL | 4084,🔒 | ss | @URL | 89,🔒 | ss | @URL | 3,🔒 | ss | @URL | 2,🔒 | ss | @URL | 64,🔒 | trojan | @URL | 4142,🔒 | ss | @URL | 50,🔒 | ss | @URL | 24,🔒 | ss | @URL | 36,🔒 | ss | @URL | 35,🔒 | ss | @URL | 85,🔒 | ss | @URL | 17,🔒 | ss | @URL | 18,🔒 | ss | @URL | 22,🔒 | ss | @URL | 29,🔒 | ss | @URL | 34,🔒 | ss | @URL | 15,🔒 | ss | @URL | 25,🔒 | ss | @URL | 33,🔒 | ss | @URL | 20,🔒 | ss | @URL | 21,🔒 | ss | @SOSkeyNET | 8415,🔒 | ss | @URL | 38,🔒 | ss | @URL | 14,🔒 | ss | @URL | 84,🔒 | ss | @URL | 13,🔒 | ss | @URL | 30,🔒 | ss | @URL | 82,🔒 | ss | @URL | 94,🔒 | ss | @URL | 37,🔒 | ss | @URL | 78,🔒 | ss | @URL | 27,🔒 | ss | @URL | 11,🔒 | ss | @URL | 26,🔒 | ss | @URL | 12,🔒 | ss | @URL | 28,🔒 | ss | @URL | 40,🔒 | ss | @URL | 41,🔒 | ss | @URL | 4088,🔒 | ss | @URL | 32,🔒 | ss | @URL | 4085,🔒 | ss | @URL | 31,🔒 | trojan | @URL | 754,🔒 | ss | @URL | 4089,🔒 | trojan | @URL | 4200,🔒 | ss | @URL | 52,🔒 | ss | @URL | 4087,🔒 | ss | @URL | 49,🔒 | trojan | @URL | 759,🔒 | trojan | @URL | 765,🔒 | trojan | @URL | 4193,🔒 | trojan | @URL | 752,🔒 | ss | @URL | 73,🔒 | ss | @URL | 76,🔒 | ss | @URL | 142,🔒 | trojan | @URL | 714,🔒 | trojan | @URL | 749,🔒 | trojan | @URL | 729,🔒 | trojan | @URL | 750,🔒 | trojan | @URL | 751,🔒 | trojan | @URL | 748,🔒 | trojan | @URL | 728,🔒 | trojan | @URL | 722,🔒 | trojan | @URL | 746,🔒 | trojan | @URL | 721,🔒 | trojan | @URL | 744,🔒 | trojan | @URL | 726,🔒 | trojan | @URL | 713,🔒 | trojan | @URL | 661,🔒 | trojan | @URL | 4196,🔒 | ss | @URL | 19,🔒 | trojan | @URL | 666,🔒 | trojan | @URL | 745,🔒 | trojan | @URL | 753,🔒 | ss | @URL | 68,🔒 | ss | @URL | 69,🔒 | trojan | @URL | 730,🔒 | trojan | @URL | 731,🔒 | trojan | @URL | 724,🔒 | trojan | @URL | 747,🔒 | ss | @URL | 4080
-FALLBACK = fallback,🔒 | ss | @URL | 4084,🔒 | ss | @URL | 89,🔒 | ss | @URL | 3,🔒 | ss | @URL | 2,🔒 | ss | @URL | 64,🔒 | trojan | @URL | 4142,🔒 | ss | @URL | 50,🔒 | ss | @URL | 24,🔒 | ss | @URL | 36,🔒 | ss | @URL | 35,🔒 | ss | @URL | 85,🔒 | ss | @URL | 17,🔒 | ss | @URL | 18,🔒 | ss | @URL | 22,🔒 | ss | @URL | 29,🔒 | ss | @URL | 34,🔒 | ss | @URL | 15,🔒 | ss | @URL | 25,🔒 | ss | @URL | 33,🔒 | ss | @URL | 20,🔒 | ss | @URL | 21,🔒 | ss | @SOSkeyNET | 8415,🔒 | ss | @URL | 38,🔒 | ss | @URL | 14,🔒 | ss | @URL | 84,🔒 | ss | @URL | 13,🔒 | ss | @URL | 30,🔒 | ss | @URL | 82,🔒 | ss | @URL | 94,🔒 | ss | @URL | 37,🔒 | ss | @URL | 78,🔒 | ss | @URL | 27,🔒 | ss | @URL | 11,🔒 | ss | @URL | 26,🔒 | ss | @URL | 12,🔒 | ss | @URL | 28,🔒 | ss | @URL | 40,🔒 | ss | @URL | 41,🔒 | ss | @URL | 4088,🔒 | ss | @URL | 32,🔒 | ss | @URL | 4085,🔒 | ss | @URL | 31,🔒 | trojan | @URL | 754,🔒 | ss | @URL | 4089,🔒 | trojan | @URL | 4200,🔒 | ss | @URL | 52,🔒 | ss | @URL | 4087,🔒 | ss | @URL | 49,🔒 | trojan | @URL | 759,🔒 | trojan | @URL | 765,🔒 | trojan | @URL | 4193,🔒 | trojan | @URL | 752,🔒 | ss | @URL | 73,🔒 | ss | @URL | 76,🔒 | ss | @URL | 142,🔒 | trojan | @URL | 714,🔒 | trojan | @URL | 749,🔒 | trojan | @URL | 729,🔒 | trojan | @URL | 750,🔒 | trojan | @URL | 751,🔒 | trojan | @URL | 748,🔒 | trojan | @URL | 728,🔒 | trojan | @URL | 722,🔒 | trojan | @URL | 746,🔒 | trojan | @URL | 721,🔒 | trojan | @URL | 744,🔒 | trojan | @URL | 726,🔒 | trojan | @URL | 713,🔒 | trojan | @URL | 661,🔒 | trojan | @URL | 4196,🔒 | ss | @URL | 19,🔒 | trojan | @URL | 666,🔒 | trojan | @URL | 745,🔒 | trojan | @URL | 753,🔒 | ss | @URL | 68,🔒 | ss | @URL | 69,🔒 | trojan | @URL | 730,🔒 | trojan | @URL | 731,🔒 | trojan | @URL | 724,🔒 | trojan | @URL | 747,🔒 | ss | @URL | 4080
+MANUAL = select,URL-TEST,FALLBACK,🔒 | ss | @URL | 34,🔒 | ss | @URL | 38,🔒 | trojan | @URL | 4165,🔒 | ss | @URL | 52,🔒 | ss | @URL | 48,🔒 | ss | @URL | 25,🔒 | ss | @URL | 4126,🔒 | ss | @URL | 71,🔒 | ss | @URL | 5,🔒 | ss | @URL | 4115,🔒 | ss | @URL | 33,🔒 | ss | @URL | 77,🔒 | ss | @URL | 76,🔒 | ss | @URL | 20,🔒 | ss | @URL | 7,🔒 | ss | @URL | 11,🔒 | ss | @URL | 4128,🔒 | ss | @URL | 9,🔒 | ss | @URL | 27,🔒 | ss | @URL | 41,🔒 | ss | @URL | 28,🔒 | ss | @SOSkeyNET | 8361,🔒 | ss | @URL | 15,🔒 | ss | @free4allVPN | 8354,🔒 | ss | @URL | 47,🔒 | ss | @URL | 70,🔒 | ss | @URL | 19,🔒 | ss | @URL | 8,🔒 | ss | @URL | 4121,🔒 | ss | @URL | 10,🔒 | ss | @URL | 31,🔒 | ss | @URL | 30,🔒 | ss | @URL | 26,🔒 | ss | @URL | 29,🔒 | ss | @URL | 6,🔒 | ss | @URL | 80,🔒 | ss | @URL | 24,🔒 | ss | @URL | 117,🔒 | ss | @URL | 69,🔒 | ss | @URL | 18,🔒 | ss | @URL | 57,🔒 | ss | @URL | 4099,🔒 | ss | @URL | 4094,🔒 | ss | @URL | 40,🔒 | ss | @URL | 4100,🔒 | ss | @URL | 4098,🔒 | trojan | @URL | 788,🔒 | ss | @URL | 4108,🔒 | ss | @URL | 4111,🔒 | ss | @URL | 4119,🔒 | trojan | @URL | 764,🔒 | trojan | @URL | 793,🔒 | trojan | @URL | 759,🔒 | trojan | @URL | 767,🔒 | trojan | @URL | 771,🔒 | trojan | @URL | 766,🔒 | trojan | @URL | 769,🔒 | trojan | @URL | 770,🔒 | trojan | @URL | 773,🔒 | trojan | @URL | 4218,🔒 | ss | @URL | 14,🔒 | trojan | @URL | 784,🔒 | trojan | @URL | 768,🔒 | ss | @URL | 4086,🔒 | trojan | @URL | 783,🔒 | trojan | @URL | 777,🔒 | trojan | @URL | 781,🔒 | trojan | @URL | 776,🔒 | trojan | @URL | 772,🔒 | trojan | @URL | 4222,🔒 | ss | @URL | 59,🔒 | trojan | @URL | 778,🔒 | trojan | @URL | 765,🔒 | trojan | @URL | 4219,🔒 | ss | @URL | 50,🔒 | ss | @URL | 51
+URL-TEST = url-test,🔒 | ss | @URL | 34,🔒 | ss | @URL | 38,🔒 | trojan | @URL | 4165,🔒 | ss | @URL | 52,🔒 | ss | @URL | 48,🔒 | ss | @URL | 25,🔒 | ss | @URL | 4126,🔒 | ss | @URL | 71,🔒 | ss | @URL | 5,🔒 | ss | @URL | 4115,🔒 | ss | @URL | 33,🔒 | ss | @URL | 77,🔒 | ss | @URL | 76,🔒 | ss | @URL | 20,🔒 | ss | @URL | 7,🔒 | ss | @URL | 11,🔒 | ss | @URL | 4128,🔒 | ss | @URL | 9,🔒 | ss | @URL | 27,🔒 | ss | @URL | 41,🔒 | ss | @URL | 28,🔒 | ss | @SOSkeyNET | 8361,🔒 | ss | @URL | 15,🔒 | ss | @free4allVPN | 8354,🔒 | ss | @URL | 47,🔒 | ss | @URL | 70,🔒 | ss | @URL | 19,🔒 | ss | @URL | 8,🔒 | ss | @URL | 4121,🔒 | ss | @URL | 10,🔒 | ss | @URL | 31,🔒 | ss | @URL | 30,🔒 | ss | @URL | 26,🔒 | ss | @URL | 29,🔒 | ss | @URL | 6,🔒 | ss | @URL | 80,🔒 | ss | @URL | 24,🔒 | ss | @URL | 117,🔒 | ss | @URL | 69,🔒 | ss | @URL | 18,🔒 | ss | @URL | 57,🔒 | ss | @URL | 4099,🔒 | ss | @URL | 4094,🔒 | ss | @URL | 40,🔒 | ss | @URL | 4100,🔒 | ss | @URL | 4098,🔒 | trojan | @URL | 788,🔒 | ss | @URL | 4108,🔒 | ss | @URL | 4111,🔒 | ss | @URL | 4119,🔒 | trojan | @URL | 764,🔒 | trojan | @URL | 793,🔒 | trojan | @URL | 759,🔒 | trojan | @URL | 767,🔒 | trojan | @URL | 771,🔒 | trojan | @URL | 766,🔒 | trojan | @URL | 769,🔒 | trojan | @URL | 770,🔒 | trojan | @URL | 773,🔒 | trojan | @URL | 4218,🔒 | ss | @URL | 14,🔒 | trojan | @URL | 784,🔒 | trojan | @URL | 768,🔒 | ss | @URL | 4086,🔒 | trojan | @URL | 783,🔒 | trojan | @URL | 777,🔒 | trojan | @URL | 781,🔒 | trojan | @URL | 776,🔒 | trojan | @URL | 772,🔒 | trojan | @URL | 4222,🔒 | ss | @URL | 59,🔒 | trojan | @URL | 778,🔒 | trojan | @URL | 765,🔒 | trojan | @URL | 4219,🔒 | ss | @URL | 50,🔒 | ss | @URL | 51
+FALLBACK = fallback,🔒 | ss | @URL | 34,🔒 | ss | @URL | 38,🔒 | trojan | @URL | 4165,🔒 | ss | @URL | 52,🔒 | ss | @URL | 48,🔒 | ss | @URL | 25,🔒 | ss | @URL | 4126,🔒 | ss | @URL | 71,🔒 | ss | @URL | 5,🔒 | ss | @URL | 4115,🔒 | ss | @URL | 33,🔒 | ss | @URL | 77,🔒 | ss | @URL | 76,🔒 | ss | @URL | 20,🔒 | ss | @URL | 7,🔒 | ss | @URL | 11,🔒 | ss | @URL | 4128,🔒 | ss | @URL | 9,🔒 | ss | @URL | 27,🔒 | ss | @URL | 41,🔒 | ss | @URL | 28,🔒 | ss | @SOSkeyNET | 8361,🔒 | ss | @URL | 15,🔒 | ss | @free4allVPN | 8354,🔒 | ss | @URL | 47,🔒 | ss | @URL | 70,🔒 | ss | @URL | 19,🔒 | ss | @URL | 8,🔒 | ss | @URL | 4121,🔒 | ss | @URL | 10,🔒 | ss | @URL | 31,🔒 | ss | @URL | 30,🔒 | ss | @URL | 26,🔒 | ss | @URL | 29,🔒 | ss | @URL | 6,🔒 | ss | @URL | 80,🔒 | ss | @URL | 24,🔒 | ss | @URL | 117,🔒 | ss | @URL | 69,🔒 | ss | @URL | 18,🔒 | ss | @URL | 57,🔒 | ss | @URL | 4099,🔒 | ss | @URL | 4094,🔒 | ss | @URL | 40,🔒 | ss | @URL | 4100,🔒 | ss | @URL | 4098,🔒 | trojan | @URL | 788,🔒 | ss | @URL | 4108,🔒 | ss | @URL | 4111,🔒 | ss | @URL | 4119,🔒 | trojan | @URL | 764,🔒 | trojan | @URL | 793,🔒 | trojan | @URL | 759,🔒 | trojan | @URL | 767,🔒 | trojan | @URL | 771,🔒 | trojan | @URL | 766,🔒 | trojan | @URL | 769,🔒 | trojan | @URL | 770,🔒 | trojan | @URL | 773,🔒 | trojan | @URL | 4218,🔒 | ss | @URL | 14,🔒 | trojan | @URL | 784,🔒 | trojan | @URL | 768,🔒 | ss | @URL | 4086,🔒 | trojan | @URL | 783,🔒 | trojan | @URL | 777,🔒 | trojan | @URL | 781,🔒 | trojan | @URL | 776,🔒 | trojan | @URL | 772,🔒 | trojan | @URL | 4222,🔒 | ss | @URL | 59,🔒 | trojan | @URL | 778,🔒 | trojan | @URL | 765,🔒 | trojan | @URL | 4219,🔒 | ss | @URL | 50,🔒 | ss | @URL | 51
 [Rule]
 GEOIP,IR,DIRECT
 FINAL,MANUAL

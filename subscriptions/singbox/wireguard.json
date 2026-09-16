@@ -117,7 +117,8 @@
                 "MTB|15|Type 0",
                 "MTB|16|Type 0",
                 "MTB|17|Type 0",
-                "MTB|18|Type 0"
+                "MTB|18|Type 0",
+                "MTB|19|Type 0"
             ]
         },
         {
@@ -141,7 +142,8 @@
                 "MTB|15|Type 0",
                 "MTB|16|Type 0",
                 "MTB|17|Type 0",
-                "MTB|18|Type 0"
+                "MTB|18|Type 0",
+                "MTB|19|Type 0"
             ],
             "url": "http://cp.cloudflare.com",
             "interval": "3m",
@@ -165,6 +167,66 @@
         },
         {
             "type": "wireguard",
+            "private_key": "cLb6PGXFClaXhfpeEJldxnaRhC4qs0AYSKHvMJ7h/XU=",
+            "server": "162.159.195.12",
+            "server_port": 942,
+            "local_address": [
+                "172.16.0.2/32"
+            ],
+            "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
+            "reserved": [
+                62,
+                51,
+                169
+            ],
+            "mtu": 1280,
+            "tag": "MTB|1|Type 0",
+            "fake_packets": "1-3",
+            "fake_packets_size": "1-10",
+            "fake_packets_delay": "1-10"
+        },
+        {
+            "type": "wireguard",
+            "private_key": "mG8SX1N8BdU9TKiihQbw+Xrgw/k/LFh3JgMQC921DGE=",
+            "server": "162.159.192.2",
+            "server_port": 908,
+            "local_address": [
+                "172.16.0.2/32"
+            ],
+            "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
+            "reserved": [
+                137,
+                211,
+                85
+            ],
+            "mtu": 1280,
+            "tag": "MTB|2|Type 0",
+            "fake_packets": "1-3",
+            "fake_packets_size": "1-10",
+            "fake_packets_delay": "1-10"
+        },
+        {
+            "type": "wireguard",
+            "private_key": "KLxE87TLDkOXs/Nm3fjVUhRbigK33Jv/4TBiG4ys7l8=",
+            "server": "162.159.192.11",
+            "server_port": 500,
+            "local_address": [
+                "172.16.0.2/32"
+            ],
+            "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
+            "reserved": [
+                125,
+                123,
+                8
+            ],
+            "mtu": 1280,
+            "tag": "MTB|3|Type 0",
+            "fake_packets": "1-3",
+            "fake_packets_size": "1-10",
+            "fake_packets_delay": "1-10"
+        },
+        {
+            "type": "wireguard",
             "private_key": "+FA5s8H2CZgBVPKRj0ngePXx7mSgpNnsocP+LmBh9Gs=",
             "server": "162.159.192.12",
             "server_port": 2408,
@@ -178,7 +240,7 @@
                 7
             ],
             "mtu": 1280,
-            "tag": "MTB|1|Type 0",
+            "tag": "MTB|4|Type 0",
             "fake_packets": "1-3",
             "fake_packets_size": "1-10",
             "fake_packets_delay": "1-10"
@@ -198,7 +260,7 @@
                 73
             ],
             "mtu": 1280,
-            "tag": "MTB|2|Type 0",
+            "tag": "MTB|5|Type 0",
             "fake_packets": "1-3",
             "fake_packets_size": "1-10",
             "fake_packets_delay": "1-10"
@@ -218,7 +280,7 @@
                 129
             ],
             "mtu": 1280,
-            "tag": "MTB|3|Type 0",
+            "tag": "MTB|6|Type 0",
             "fake_packets": "1-3",
             "fake_packets_size": "1-10",
             "fake_packets_delay": "1-10"
@@ -238,7 +300,7 @@
                 61
             ],
             "mtu": 1280,
-            "tag": "MTB|4|Type 0",
+            "tag": "MTB|7|Type 0",
             "fake_packets": "1-3",
             "fake_packets_size": "1-10",
             "fake_packets_delay": "1-10"
@@ -258,7 +320,7 @@
                 177
             ],
             "mtu": 1280,
-            "tag": "MTB|5|Type 0",
+            "tag": "MTB|8|Type 0",
             "fake_packets": "1-3",
             "fake_packets_size": "1-10",
             "fake_packets_delay": "1-10"
@@ -278,7 +340,7 @@
                 138
             ],
             "mtu": 1280,
-            "tag": "MTB|6|Type 0",
+            "tag": "MTB|9|Type 0",
             "fake_packets": "1-3",
             "fake_packets_size": "1-10",
             "fake_packets_delay": "1-10"
@@ -298,7 +360,7 @@
                 36
             ],
             "mtu": 1280,
-            "tag": "MTB|7|Type 0",
+            "tag": "MTB|10|Type 0",
             "fake_packets": "1-3",
             "fake_packets_size": "1-10",
             "fake_packets_delay": "1-10"
@@ -318,7 +380,7 @@
                 236
             ],
             "mtu": 1280,
-            "tag": "MTB|8|Type 0",
+            "tag": "MTB|11|Type 0",
             "fake_packets": "1-3",
             "fake_packets_size": "1-10",
             "fake_packets_delay": "1-10"
@@ -338,7 +400,7 @@
                 134
             ],
             "mtu": 1280,
-            "tag": "MTB|9|Type 0",
+            "tag": "MTB|12|Type 0",
             "fake_packets": "1-3",
             "fake_packets_size": "1-10",
             "fake_packets_delay": "1-10"
@@ -358,7 +420,7 @@
                 204
             ],
             "mtu": 1280,
-            "tag": "MTB|10|Type 0",
+            "tag": "MTB|13|Type 0",
             "fake_packets": "1-3",
             "fake_packets_size": "1-10",
             "fake_packets_delay": "1-10"
@@ -378,7 +440,7 @@
                 45
             ],
             "mtu": 1280,
-            "tag": "MTB|11|Type 0",
+            "tag": "MTB|14|Type 0",
             "fake_packets": "1-3",
             "fake_packets_size": "1-10",
             "fake_packets_delay": "1-10"
@@ -398,7 +460,7 @@
                 96
             ],
             "mtu": 1280,
-            "tag": "MTB|12|Type 0",
+            "tag": "MTB|15|Type 0",
             "fake_packets": "1-3",
             "fake_packets_size": "1-10",
             "fake_packets_delay": "1-10"
@@ -418,7 +480,7 @@
                 195
             ],
             "mtu": 1280,
-            "tag": "MTB|13|Type 0",
+            "tag": "MTB|16|Type 0",
             "fake_packets": "1-3",
             "fake_packets_size": "1-10",
             "fake_packets_delay": "1-10"
@@ -438,7 +500,7 @@
                 110
             ],
             "mtu": 1280,
-            "tag": "MTB|14|Type 0",
+            "tag": "MTB|17|Type 0",
             "fake_packets": "1-3",
             "fake_packets_size": "1-10",
             "fake_packets_delay": "1-10"
@@ -458,7 +520,7 @@
                 11
             ],
             "mtu": 1280,
-            "tag": "MTB|15|Type 0",
+            "tag": "MTB|18|Type 0",
             "fake_packets": "1-3",
             "fake_packets_size": "1-10",
             "fake_packets_delay": "1-10"
@@ -478,47 +540,7 @@
                 93
             ],
             "mtu": 1280,
-            "tag": "MTB|16|Type 0",
-            "fake_packets": "1-3",
-            "fake_packets_size": "1-10",
-            "fake_packets_delay": "1-10"
-        },
-        {
-            "type": "wireguard",
-            "private_key": "8E2XMOhYGQTV0bqZnIgZ3rvTtg9POfalIhkeKaYp/38=",
-            "server": "162.159.195.14",
-            "server_port": 942,
-            "local_address": [
-                "172.16.0.2/32"
-            ],
-            "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-            "reserved": [
-                218,
-                141,
-                96
-            ],
-            "mtu": 1280,
-            "tag": "MTB|17|Type 0",
-            "fake_packets": "1-3",
-            "fake_packets_size": "1-10",
-            "fake_packets_delay": "1-10"
-        },
-        {
-            "type": "wireguard",
-            "private_key": "QCID9M45/FTRWIEqByW223O/Zd0bimUcFB7CHED1QHs=",
-            "server": "162.159.195.18",
-            "server_port": 500,
-            "local_address": [
-                "172.16.0.2/32"
-            ],
-            "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-            "reserved": [
-                125,
-                25,
-                107
-            ],
-            "mtu": 1280,
-            "tag": "MTB|18|Type 0",
+            "tag": "MTB|19|Type 0",
             "fake_packets": "1-3",
             "fake_packets_size": "1-10",
             "fake_packets_delay": "1-10"
